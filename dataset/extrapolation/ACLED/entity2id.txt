@@ -1,0 +1,1823 @@
+11 + 1 Gang	0
+112th Brigade	1
+128th Battalion	2
+21 Bagan - People's Defense Force	3
+400 Mawozo Gang	4
+444th Brigade	5
+44st-UG: 44st Urban Guerrillas	6
+5 Etoiles Gang	7
+5/Teachers People's Defense Force	8
+50th Division	9
+52nd Brigade	10
+555th Brigade (Libya)	11
+55th Brigade	12
+8+ Ah Nyar Myay Sit Sin Yay Aphwe: 8+ Ah Nyar Myay Operation Forces	13
+A-SDA: Party of Democratic Activity	14
+AAMB: Ayn Bayt al Ma Youth of Revenge and Liberation	15
+AAMB: Balata Youth of Revenge and Liberation	16
+AAMB: Jenin Panthers Brigades	17
+AAMB: Jenin Youth of Revenge and Liberation	18
+AAMB: Katibat Al Wadie	19
+AAMB: Katibat Bayt Ummar	20
+AAMB: Katibat Tulkarm - Quick Response	21
+AAMB: Khalil Al Maqdah Brigade	22
+AAMB: Pioneers of Liberation - Nablus	23
+AAMB: Raed al Karmi Brigade	24
+AAMB: Storm Brigade	25
+AAMB: Tubas Youth of Revenge and Liberation	26
+AAMB: Tulkarm Youth of Revenge and Liberation	27
+AAP: Aam Aadmi Party	28
+AAS: Ahrar al Sham	29
+ABSDF: All Burma Students' Democratic Front	30
+ACDF: Asho Chin Defense Force	31
+ACSN: Self-Defense Conquerors of Sierra Nevada	32
+ADA: Amigos dos Amigos	33
+ADF: Allied Democratic Forces	34
+ADF: Anyar Defense Force	35
+AIADMK: All India Anna Dravida Munnetra Kazhagam	36
+AL: Bangladesh Awami League	37
+APC: All Progressives Congress	38
+APCLS: Alliance of Patriots for a Free and Sovereign Congo	39
+AQAP: Al Qaeda in the Arabian Peninsula	40
+AQIM: Al Qaeda in the Islamic Maghreb	41
+ARSA: Arakan Rohingya Salvation Army	42
+AT: Arambai Tenggol	43
+ATMIS: African Union Transition Mission in Somalia (2022-2024)	44
+ATMIS: African Union Transition Mission in Somalia (2022-2024) (Burundi)	45
+ATMIS: African Union Transition Mission in Somalia (2022-2024) (Djibouti)	46
+ATMIS: African Union Transition Mission in Somalia (2022-2024) (Ethiopia)	47
+ATMIS: African Union Transition Mission in Somalia (2022-2024) (Kenya)	48
+ATMIS: African Union Transition Mission in Somalia (2022-2024) (Uganda)	49
+AVG: Anambra State Vigilante Group (Nigeria)	50
+Abdul al-Qadir al-Husseini Brigades	51
+Abgal Clan Militia (Somalia)	52
+Abgal Wacaysle Ali Gaaf Sub-Clan Militia (Somalia)	53
+Abgal-Abdalla Arone Sub-Clan Militia (Somalia)	54
+Abu Bakr al-Siddiq Battalion	55
+Abul Nitel Communal Militia (Syria)	56
+Adamawa Communal Militia (Nigeria)	57
+Afghanistan Freedom Front	58
+Africa Corps	59
+Agar Clan Militia (South Sudan)	60
+Aguilas Negras	61
+Ah Hmat 3 Ah Htoo Hloke Shar Tat Yin: No.3 Special Operation Battalion	62
+Ah Phyu Yaung PDF: White People's Defense Force	63
+Ahrar al Sharqiyah	64
+Akop-Rek Sub-Clan Militia (South Sudan)	65
+Al Aqsa Martyrs Brigade	66
+Al Aqsa Martyrs Brigade - Nidal Al-Amoude	67
+Al Asbah Farm Communal Militia (Syria)	68
+Al Bab Communal Militia (Syria)	69
+Al Baraa Ibn Malik Brigade	70
+Al Damani Tribal Milita (Yemen)	71
+Al Ezaiba Communal Militia (Sudan)	72
+Al Faddaq Tribal Militia (Yemen)	73
+Al Fath Al Mubeen Operation Room	74
+Al Ghatat Tribal Militia (Yemen)	75
+Al Isnad Militia (Libya)	76
+Al Jobanat Tribal Militia (Syria)	77
+Al Maatirah Tribal Militia (Yemen)	78
+Al Mu'tasim Brigade	79
+Al Nasser Salah al Deen Brigades	80
+Al Shabaab	81
+Al Sham Corps	82
+Al Shukriyya Ethnic Militia (Sudan)	83
+Al Sireha Communal Militia (Sudan)	84
+Al Tibeb Al Nafaab Communal Militia (Sudan)	85
+Al Ulqimah Tribal Militia (Yemen)	86
+Alawaka Myo Pya Pyauk Kyar Tatphwe: Alawaka Urban Guerrilla Force	87
+Aliap-Akook-Rek Sub-Clan Militia (South Sudan)	88
+Aliap-Thiik-Rek Sub-Clan Militia (South Sudan)	89
+Alin Tan Pyauk Kyar Tatphwe (Myaing): Light Guerrilla Force (Myaing)	90
+Amal Movement	91
+Amaro Ethnic Militia (Ethiopia)	92
+Ambazonian Separatists (Cameroon)	93
+Ambazonian Separatists (Cameroon) Restoration Forces	94
+Amla Communal Militia (Nigeria)	95
+Anonymous Force	96
+Ansar al Furqan	97
+Ansar al Islam	98
+Ansar al Tawhid	99
+Anti-Drug Vigilantes (Philippines)	100
+Anyar Myay Tat Paung Su: Anyar Land Joint Forces	101
+Ar-Raqqa Communal Militia (Syria)	102
+Armed Drug Suspects (Philippines)	103
+Army of Justice	104
+Asayish (Syria)	105
+Ashigashiya Communal Militia (Cameroon)	106
+Association of Islamic Charitable Projects	107
+Atesh	108
+Aung San's Land Natmauk	109
+Ayadaw Naung Yoe	110
+Ayadaw Rocket LPDF	111
+Azande Ani Kpi Gbe (Central African Republic)	112
+B-18: Barrio-18	113
+B40: Bonde dos 40 Gang	114
+BDM: Bonde do Maluco	115
+BGS Drone Force - Ayadaw	116
+BHA: Brave Heart Army	117
+BKI: Babbar Khalsa International	118
+BLA: Baloch Liberation Army	119
+BLDF: Burma Liberation Democratic Front	120
+BLF: Baloch Liberation Front	121
+BLPA: Black Leopard Army	122
+BNL: Biafra Nations League Dragon Fighter Marine Faction	123
+BNP: Bangladesh Nationalist Party	124
+BPDF: Burmese Peacock Defense Force	125
+BRA: Baloch Republican Army	126
+BRG: Baloch Republican Guard	127
+BSS: Balasahebanchi Shiv Sena	128
+BTZ GBK PDF	129
+BWM: Brave Warriors for Myanmar	130
+Baadiade Sub-Clan Militia (Somalia)	131
+Babembe Ethnic Militia (Democratic Republic of Congo)	132
+Bagan Ogre Force	133
+Bagan Sit Thei (Nyaung-U Myo Nei Ahtoo Chay Hmone Yay Tat): Bagan Warriors (Nyaung-U Township Special Assault Force)	134
+Baloch Separatists (Pakistan)	135
+Bani Buays Tribal Militia (Yemen)	136
+Bani Habar Tribal Militia (Yemen)	137
+Bar Ma Hti People's Defense Force	138
+Base 5 Secondes Gang	139
+Base Krache Dife Gang	140
+Batwa Ethnic Militia (Democratic Republic of Congo)	141
+Bawku Communal Militia (Ghana)	142
+Bayt ash Sharif Tribal Militia (Yemen)	143
+Baz Gran Grif de Savien Gang	144
+Belair Gang	145
+Benue Communal Militia (Nigeria)	146
+Biliew Clan Militia (South Sudan)	147
+Black Axe (Nigeria)	148
+Black Dragon GBK PDF	149
+Black Tiger UG Team	150
+Bo Japan Gyi (T.T.T) - Shwebo People's Defense Force	151
+Bo Kyar Gyi Aphwe - Tabayin: Bo Tiger Group - Tabayin	152
+Boka Communal Militia (Cameroon)	153
+Boko Haram - Jamaatu Ahli is-Sunnah lid-Dawati wal-Jihad	154
+Bor Clan Militia (South Sudan)	155
+Boya Ethnic Militia (South Sudan)	156
+Brazil Union Party	157
+Buccaneers (Nigeria)	158
+Budalin Ninja	159
+CAM: Coordination Arauco Malleco	160
+CCYG: Chiapas and Guatemala Cartel	161
+CDF: Frontier Command	162
+CDM: Civic Defense Militia - Siyin	163
+CDN: Cartel del Noreste	164
+CJNG: Jalisco New Generation Cartel	165
+CNDD-FDD-Imbonerakure: National Council for the Defence of Democracy (Imbonerakure Faction)	166
+CNDD-FDD: National Council for the Defence of Democracy-Forces for the Defence of Democracy	167
+CNF/CNA: Chin National Front/Chin National Army	168
+CNO/CNDF: Chin National Organization/Chin National Defense Force	169
+CODECO: Cooperative for Development of Congo	170
+CPC-F: Coalition of Patriots for Change - Fundamental	171
+CPC: Coalition of Patriots for Change	172
+CPI (Maoist): Communist Party of India (Maoist)	173
+CPI(M): Communist Party of India (Marxist)	174
+CPN(MC): Communist Party of Nepal (Maoist Centre)	175
+CPN(UML): Communist Party of Nepal (Unified Marxist-Leninist)	176
+CPP-NPA-NDF: Communist Party of the Philippines-New People's Army-National Democratic Front	177
+CRB: Chindwin Rocket Brothers	178
+CSP: Permanent Strategic Framework	179
+CV: Red Command	180
+Caborca Cartel	181
+Canaan Gang	182
+Cat Claw Group	183
+Chauk Revolution Army - Yay Nan Myay	184
+Chien Mechant Gang	185
+Chin Brotherhood Alliance	186
+Chindwin Attack Force	187
+Chindwin Brothers	188
+Chindwin Dynamite	189
+Chindwin Toe Na Yar PDF	190
+Chinland Defense Force - Hakha	191
+Chinland Defense Force - Hualngoram	192
+Chinland Defense Force - Mindat	193
+Chinland Defense Force - Thantlang	194
+Cho Maing Maing Yinmarbin-Kani Mahar Meik Tat Paung Su: Cho Maing Maing Yinmarbin-Kani Joint Forces	195
+Chougoule Communal Militia (Cameroon)	196
+Ciec Clan Militia (South Sudan)	197
+Civilian JTF: Civilian Joint Task Force	198
+Civilians (Afghanistan)	199
+Civilians (Algeria)	200
+Civilians (Argentina)	201
+Civilians (Azerbaijan)	202
+Civilians (Bangladesh)	203
+Civilians (Belarus)	204
+Civilians (Belgium)	205
+Civilians (Benin)	206
+Civilians (Bolivia)	207
+Civilians (Bosnia and Herzegovina)	208
+Civilians (Brazil)	209
+Civilians (Burkina Faso)	210
+Civilians (Burundi)	211
+Civilians (Cameroon)	212
+Civilians (Canada)	213
+Civilians (Central African Republic)	214
+Civilians (Chad)	215
+Civilians (Chile)	216
+Civilians (China)	217
+Civilians (Colombia)	218
+Civilians (Comoros)	219
+Civilians (Costa Rica)	220
+Civilians (Croatia)	221
+Civilians (Cuba)	222
+Civilians (Cyprus)	223
+Civilians (Democratic Republic of Congo)	224
+Civilians (Denmark)	225
+Civilians (Dominican Republic)	226
+Civilians (Ecuador)	227
+Civilians (Egypt)	228
+Civilians (El Salvador)	229
+Civilians (Eritrea)	230
+Civilians (Ethiopia)	231
+Civilians (France)	232
+Civilians (Germany)	233
+Civilians (Ghana)	234
+Civilians (Greece)	235
+Civilians (Guatemala)	236
+Civilians (Guinea)	237
+Civilians (Haiti)	238
+Civilians (Honduras)	239
+Civilians (India)	240
+Civilians (Indonesia)	241
+Civilians (International)	242
+Civilians (Iran)	243
+Civilians (Iraq)	244
+Civilians (Israel)	245
+Civilians (Italy)	246
+Civilians (Ivory Coast)	247
+Civilians (Jamaica)	248
+Civilians (Japan)	249
+Civilians (Jordan)	250
+Civilians (Kenya)	251
+Civilians (Kyrgyzstan)	252
+Civilians (Lebanon)	253
+Civilians (Lesotho)	254
+Civilians (Libya)	255
+Civilians (Lithuania)	256
+Civilians (Malawi)	257
+Civilians (Malaysia)	258
+Civilians (Mali)	259
+Civilians (Mauritania)	260
+Civilians (Mexico)	261
+Civilians (Morocco)	262
+Civilians (Mozambique)	263
+Civilians (Myanmar)	264
+Civilians (Nepal)	265
+Civilians (Netherlands)	266
+Civilians (Nicaragua)	267
+Civilians (Niger)	268
+Civilians (Nigeria)	269
+Civilians (Norway)	270
+Civilians (Pakistan)	271
+Civilians (Palestine)	272
+Civilians (Peru)	273
+Civilians (Philippines)	274
+Civilians (Portugal)	275
+Civilians (Puerto Rico)	276
+Civilians (Russia)	277
+Civilians (Rwanda)	278
+Civilians (Serbia)	279
+Civilians (Somalia)	280
+Civilians (South Africa)	281
+Civilians (South Korea)	282
+Civilians (South Sudan)	283
+Civilians (Spain)	284
+Civilians (Sri Lanka)	285
+Civilians (Sudan)	286
+Civilians (Sweden)	287
+Civilians (Switzerland)	288
+Civilians (Syria)	289
+Civilians (Tanzania)	290
+Civilians (Thailand)	291
+Civilians (Togo)	292
+Civilians (Trinidad and Tobago)	293
+Civilians (Turkey)	294
+Civilians (Uganda)	295
+Civilians (Ukraine)	296
+Civilians (United Kingdom)	297
+Civilians (United States)	298
+Civilians (Uzbekistan)	299
+Civilians (Venezuela)	300
+Civilians (Vietnam)	301
+Civilians (Yemen)	302
+Civilians (Zambia)	303
+Civilians (Zimbabwe)	304
+Civilians (eSwatini)	305
+Clansman Gang	306
+Coahuayana de Hidalgo Communal Militia (Mexico)	307
+Cobra One PKU	308
+County Inspectorate Officers (2022-)	309
+DBTF: Dragon Brothers Task Force	310
+DDF: Dawei Defense Force	311
+DFLP: Democratic Front for the Liberation of Palestine	312
+DKBA (Buddhist): Democratic Karen Buddhist Army (2016-)	313
+DKPDF: Dog Killers Defence Force Myinmu	314
+DNLA: Dawei National Liberation Army	315
+DPLF: Danu People's Liberation Front	316
+DPP: Democratic Progressive Party	317
+DSNDF/DSNDA: Danu State National Defense Front/ Danu State National Defense Army	318
+Dadji Mere Communal Militia (Chad)	319
+Dalit Caste Militia (India)	320
+Dan F Bless Gang	321
+Dan Na Ambassagou	322
+Danger Force LDF	323
+Darfur Arab Militia (Sudan)	324
+Darfur Communal Militia (Sudan)	325
+Darfur Joint Forces/JSAMF: Joint Force of Armed Struggle Movement	326
+Dark Shadow	327
+Darnaj Communal Militia (Syria)	328
+Dassanach Ethnic Militia (Ethiopia)	329
+Daung Ah Lan Hlwint Myi Say Ta Man: Peacock Flag Raising Say Ta Man	330
+Daung Sit Aung Local PDF	331
+Daw Na Column	332
+Dawlah Islamiyah	333
+Dhu Zayd Tribal Militia (Yemen)	334
+Dhulbahante Clan Militia (Somalia)	335
+Dhulbahante-Hassan Ugas Sub-Clan Militia (Somalia)	336
+Dhulbahante-Jamac Siyaad Sub-Clan Militia (Somalia)	337
+Dhulbahante-Naleeye Ahmed Sub-Clan Militia (Somalia)	338
+Didinga Ethnic Militia (South Sudan)	339
+Digil-Garre Sub-Clan Militia (Somalia)	340
+Digil-Jiido Sub-Clan Militia (Somalia)	341
+Dinka Ethnic Militia (South Sudan)	342
+Dir Clan Militia (Somalia)	343
+Dozo Communal Militia (Mali)	344
+Dragon Brothers GBK	345
+Dragon Squad (Thanintharyi)	346
+EGF: Eagle Guerrilla Force - Shwebo	347
+ELN: National Liberation Army	348
+EPL: Popular Liberation Army	349
+EPLC: Awakening of Patriots for the Liberation of Congo (Wazalendo)	350
+ER: United Russia	351
+Eagle Force	352
+Earthquake People's Defense Force	353
+Ebube Agu Corps	354
+El Abejorro Gang	355
+El Alfonsito Gang	356
+El Audio Gang	357
+El Burro Gang	358
+El Cabeza de Motor Gang	359
+El Caracas Gang	360
+El Chuchobello Gang	361
+El Chuo Marrero Gang	362
+El Flipper Gang	363
+El Jonathan Gang	364
+El Jonathan el Gallero Gang	365
+El Jose Leonardo Gang	366
+El Josefa Gang	367
+El Malindo Gang	368
+El Manuare Gang	369
+El Mauricio Gang	370
+El Noe Gang	371
+El Tren de Aragua Gang	372
+El Vampi Gang	373
+El Wasson Gang	374
+Eliover Gang	375
+FARC Dissident - 10th Front: Revolutionary Armed Forces of Colombia Dissident Faction (10th Front - Guadalupe Salcedo)	376
+FARC Dissident - 18th Front: Revolutionary Armed Forces of Colombia Dissident Faction (18th Front - Roman Ruiz)	377
+FARC Dissident - 26 de Marzo Front: Revolutionary Armed Forces of Colombia Dissident Faction (26 de Marzo)	378
+FARC Dissident - 28th Front: Revolutionary Armed Forces of Colombia Dissident Faction (28th Front - Jose Maria Cordoba)	379
+FARC Dissident - 29th Front Franco Benavides: Revolutionary Armed Forces of Colombia Dissident Faction (29th Front - Franco Benavides)	380
+FARC Dissident - 30th Front Rafael Aguilera: Revolutionary Armed Forces of Colombia Dissident Faction (30th Front - Rafael Aguilera Front)	381
+FARC Dissident - 39th Front Arcesio Nino: Revolutionary Armed Forces of Colombia Dissident Faction (39th Front - Arcesio Nino)	382
+FARC Dissident - 7th Front Jorge Briceno Front: Revolutionary Armed Forces of Colombia Dissident Faction (7th Front - Jorge Briceno)	383
+FARC Dissident - Adan Izquierdo Mobile Column: Revolutionary Armed Forces of Colombia Dissident Faction (Adan Izquierdo)	384
+FARC Dissident - Bloque Magdalena Medio: Revolutionary Armed Forces of Colombia Dissident Faction (Bloque Magdalena Medio)	385
+FARC Dissident - Bloque Occidental Comandante Jacobo Arenas: Revolutionary Armed Forces of Colombia Dissident Faction (Bloque Occidental Comandante Jacobo Arenas)	386
+FARC Dissident - Carlos Patino Front: Revolutionary Armed Forces of Colombia Dissident Faction (Carlos Patino Front)	387
+FARC Dissident - Carolina Ramirez Front: Revolutionary Armed Forces of Colombia Dissident Faction (Carolina Ramirez Front)	388
+FARC Dissident - Central General Staff: Revolutionary Armed Forces of Colombia Dissident Faction (EMC)	389
+FARC Dissident - Dagoberto Ramos: Revolutionary Armed Forces of Colombia Dissident Faction (Dagoberto Ramos)	390
+FARC Dissident - Ismael Ruiz Front: Revolutionary Armed Forces of Colombia Dissident Faction (Ismael Ruiz Front)	391
+FARC Dissident - Ivan Diaz Front: Revolutionary Armed Forces of Colombia Dissident Faction (Ivan Diaz)	392
+FARC Dissident - Jaime Martinez: Revolutionary Armed Forces of Colombia Dissident Faction (Jaime Martinez)	393
+FARC Dissident - Rodrigo Cadete Front: Revolutionary Armed Forces of Colombia Dissident Faction (Rodrigo Cadete)	394
+FARC Dissident - Second Marquetalia: Revolutionary Armed Forces of Colombia Dissident Faction (Segunda Marquetalia)	395
+FARC Dissident - Urias Rondon Mobile Column: Revolutionary Armed Forces of Colombia Dissident Faction (Urias Rondon)	396
+FARC Dissident: Revolutionary Armed Forces of Colombia Dissident Faction	397
+FDLR: Democratic Forces for the Liberation of Rwanda	398
+FDLR: Democratic Forces for the Liberation of Rwanda and/or FLN: National Liberation Front (Rwanda)	399
+FFGF: Freedom Fighter Guerrilla Force	400
+FLA: Freeland Attack Force	401
+FLN: National Liberation Front (Rwanda)	402
+FPAC: Ituri Self-Defense Popular Front (Zaire)	403
+FRELIMO: Liberation Front of Mozambique	404
+FRF CHU: Farmers Revolution Force CHU	405
+FRF: Freedom Revolution Force	406
+FRODEBU: Front for Democracy in Burundi	407
+FTA: Amapa Family of Terror	408
+FaR: Al Rahman Corps	409
+Familia do Sul Gang	410
+Fano Youth Militia	411
+Fatemiyoun Brigade	412
+Faylaq al Majd	413
+Flying Dragon Force	414
+Flying Star Group	415
+Fulani Ethnic Militia (Cameroon)	416
+Fulani Ethnic Militia (Nigeria)	417
+Future Hero	418
+GATIA: Imghad Tuareg and Allies Self-Defense Group	419
+GDE: Guardians of the State	420
+GHF: God's Hand Forces	421
+GNG: Guerrero New Generation Gang	422
+GOEM: Special Operations Group Mencho	423
+GZP-Mandalay: Generation Z Power (Mandalay)	424
+Gaaljecel Clan Militia (Somalia)	425
+Galamseyers	426
+Garre Clan Militia (Somalia)	427
+Gawaar Clan Militia (South Sudan)	428
+Gaza Gang	429
+General Caste Militia (India)	430
+Gharyan Communal Militia (Libya)	431
+Giants Brigades	432
+Global Coalition Against Daesh	433
+Gogachak Communal Militia (India)	434
+Gok Clan Militia (South Sudan)	435
+Golden Valley Warriors	436
+Gora Communal Militia (Nigeria)	437
+Gouzoudou Communal Militia (Cameroon)	438
+Government of Brazil (2023-)	439
+Government of China (2012-)	440
+Government of Cyprus (2023-)	441
+Government of Denmark (2019-)	442
+Government of Ethiopia (2018-)	443
+Government of Greece (2019-)	444
+Government of Haiti (2024-)	445
+Government of India (2014-)	446
+Government of Nicaragua (2007-)	447
+Government of Nigeria (2023-)	448
+Government of Pakistan (2022-)	449
+Government of Russia (2000-)	450
+Government of Turkey (2016-)	451
+Government of Ukraine (2019-)	452
+Government of Yemen (2017-) Houthi	453
+Government of Yemen (2022-) Presidential Leadership Council	454
+Government of the Central African Republic (2016-)	455
+Government of the Democratic Republic of Congo (2019-)	456
+Government of the Philippines (2022-)	457
+Government of the United States (2021-)	458
+Government of the United States (2021-2025)	459
+Grand-Ravine Gang	460
+Greenlanders (Nigeria)	461
+Grupo Delta Gang	462
+Guarani Kaiowa Indigenous Militia	463
+Guardia Indigena (Colombia)	464
+Gulf Cartel	465
+Gulf Clan	466
+Gumayde Armed Group (Ethiopia)	467
+Guzule Clan Militia (South Sudan)	468
+Gwomu Communal Militia (Nigeria)	469
+Gyobingauk Hero Pyauk Kyar Tatphwe: Gyobingauk Hero Guerrilla Force	470
+HBDH: Peoples United Revolutionary Movement	471
+HM: Hizb-ul-Mujahideen	472
+HNDZ: Nour al Din al Zinki Movement	473
+HTS: Hayat Tahrir al Sham	474
+HXP: Self-Defence Forces	475
+Habar Gedir-Ayr Sub-Clan Militia (Somalia)	476
+Habar Gedir-Duduble Sub-Clan Militia (Somalia)	477
+Habar Gedir-Sacad Sub-Clan Militia (Somalia)	478
+Habar Gedir-Saleban Clan Militia (Somalia)	479
+Habar Jeclo Clan Militia (Somalia)	480
+Habar Jeclo-Soolomadaw Sub-Clan Militia (Somalia)	481
+Habar Yoonis-Muse Ismail Sub-Clan Militia (Somalia)	482
+Hamas Movement	483
+Hamas: Katibat Tulkarm	484
+Hammam Tribal Militia (Yemen)	485
+Hamza Brigade	486
+Hamza Division - Aleppo	487
+Harakat Hezbollah Al Nujaba	488
+Hasta Los Marcians Gang	489
+Hawadle Clan Militia (Somalia)	490
+Hawayej Bumasaa Communal Militia (Syria)	491
+Hay Tribal Militia (Syria)	492
+HeI: Hefazat-e-Islam Bangladesh	493
+Hero Defence Force - Myingyan	494
+Hezbollah	495
+Hiiraan State Militia	496
+Hlatsee Tat Khwe: Lightning Unit	497
+Hmar Ethnic Militia (India)	498
+Huachicoleros (Mexico)	499
+Hunters Group of Nigeria	500
+Hyper UAV Force	501
+ICS: Islami Chhatra Shibir	502
+IPDF: Inle People's Defense Force	503
+IPOB: Indigenous Peoples of Biafra	504
+Icelanders (Nigeria)	505
+Idiots Column	506
+Igbaja Communal Militia (Nigeria)	507
+Indigenous Militia (Brazil)	508
+Indigenous Militia (Colombia)	509
+Irete Communal Militia (Nigeria)	510
+Islamic Group in Lebanon	511
+Islamic Resistance in Iraq	512
+Islamic Resistance in Iraq - Revolutionaries	513
+Islamic Resistance in the Land of Two Holy Mosques	514
+Islamic State (IS)	515
+Islamic State Khorasan Province (ISKP)	516
+Islamic State Mozambique (ISM)	517
+Islamic State Pakistan Province (ISPP)	518
+Islamic State Sahel Province (ISSP)	519
+Islamic State Somalia Province	520
+Islamic State West Africa Province (ISWAP)	521
+Islamic State West Africa Province (ISWAP) - Lake Chad Faction and/or Boko Haram - Jamaatu Ahli is-Sunnah lid-Dawati wal-Jihad	522
+Islamic State West Africa Province (ISWAP) and/or Boko Haram - Jamaatu Ahli is-Sunnah lid-Dawati wal-Jihad	523
+Islamic State in Iraq and the Levant (ISIL)	524
+Islamist Militia (United States)	525
+JAD: Jemaah Ansharut Daulah	526
+JEM-Gibiril Ibrahim: Justice and Equality Movement	527
+JJD: Jatiyatabadi Jubo Dal	528
+JJMP: Jharkhand Jan Mukti Parishad	529
+JKNC: Jammu and Kashmir National Conference	530
+JNIM: Group for Support of Islam and Muslims	531
+JNIM: Group for Support of Islam and Muslims and/or Islamic State Sahel Province (ISSP)	532
+JTW: National Liberation Front	533
+JWS: Syrian National Army	534
+JWS: Syrian National Army- 2nd Corps	535
+JaS: Levant Front	536
+Jabhat al-Ribat	537
+Jacao Police Militia	538
+Jamin Mathiya Communal Militia (India)	539
+Jareer-Weyne Sub-Clan Militia (Somalia)	540
+Jaysh al Ahrar	541
+Jaysh al Islam	542
+Jaysh al Nasr	543
+JeM: Jaish-e-Mohammad	544
+Jie Ethnic Militia (South Sudan)	545
+Jie Ethnic Militia (Uganda)	546
+Jigawa Communal Militia (Nigeria)	547
+JuA: Jamaat-ul-Ahrar	548
+Jubo League	549
+KADVIS: Kaduna State Vigilance Service	550
+KB4 Tatphwe: KB4 Force	551
+KBDH: Women's United Revolutionary Movement	552
+KBU-Taw Lay	553
+KCF: Khalistan Commando Force	554
+KCP (PWG): Kangleipak Communist Party-People's War Group	555
+KCP-MC(N): Kangleipak Communist Party-Military Council (Nongdrenkhomba)	556
+KIO/KIA: Kachin Independence Organization/Kachin Independence Army	557
+KLA: Kuki Liberation Army	558
+KNDF: Karenni Nationalities Defense Force	559
+KNDO: Karen National Defence Organization	560
+KNLP/KNLA: Kayan New Land Party/Kayan New Land Army	561
+KNPF: Karen National Police Force	562
+KNU/KNLA: Karen National Union/Karen National Liberation Army	563
+KPDF: Kachin Region People's Defense Force	564
+KRA: Kyaukse Revolution Army	565
+KRF: Kyaikhto Revolution Force	566
+KRRC: Kamma Regional Revolution Coalition	567
+KSP: Karenni State Police	568
+KSZK: Komala Party of Iranian Kurdistan	569
+KYKL: Kanglei Yawol Kanna Lup	570
+Kabouat Militia (Libya)	571
+Kaduna Communal Militia (Nigeria)	572
+Kamma Underground PDF	573
+Kanbalu UG: Kanbalu Underground Warriors	574
+Kannada Ethnic Militia (India)	575
+Karamojong Ethnic Militia (Uganda)	576
+Kashmir Rebels (India)	577
+Kashmir Rebels (Pakistan)	578
+Katarko Communal Militia (Nigeria)	579
+Katibat Khalil ar Rahman	580
+Katibat Mukhayyam Qalandia	581
+Katibat Tayasir - Jund Allah	582
+Katon Lane Defence Force/Top Junglist Gang	583
+Katsina Communal Militia (Nigeria)	584
+Katsina State Community Watch Corps (Nigeria)	585
+Kaw Thoo Lei Army	586
+Kebbi Communal Militia (Nigeria)	587
+Kebele Communal Militia (Ethiopia)	588
+Kee Ku Sit Kyaung: Kee Ku Column	589
+Kekukesem I Communal Militia (Cameroon)	590
+Kekukesem II Communal Militia (Cameroon)	591
+Kogi Communal Militia (Nigeria)	592
+Kokorat San Ras Gang	593
+Kourgui Communal Militia (Cameroon)	594
+Kraze Barye Gang	595
+Ku Klux Klan Militia (Nigeria)	596
+Kuchi Tribal Militia (Afghanistan)	597
+Kuje Communal Militia (Nigeria)	598
+Kuki Tribal Militia (India)	599
+Kukta Communal Militia (Nigeria)	600
+Kurenen Clan Militia (South Sudan)	601
+Kusasis Ethnic Militia (Ghana)	602
+Kyaikhto People's Defense Force	603
+LSR: Freedom of Russia Legion	604
+La Barredora Gang	605
+La Coalition Militia	606
+La Empresa Gang	607
+La Familia Michoacana Cartel	608
+La Linea Gang	609
+La Police Gang	610
+La Union Tepito	611
+La Virgen Cartel	612
+LaQ: Quds Brigade	613
+Lame Timanchet Gang	614
+Langdiing-Ayiel-Gok Sub-Clan Militia (South Sudan)	615
+Langdiing-Pagok-Gok Sub-Clan Militia (South Sudan)	616
+Langdiing-Pathiang-Gok Sub-Clan Militia (South Sudan)	617
+Las Mamut Gang	618
+Lassin Communal Militia (Cameroon)	619
+Lath Clan Militia (South Sudan)	620
+LeJ: Lashkar-e-Jhangvi	621
+LeT: Lashkar-e-Taiba	622
+Lebanese Resistance Brigades	623
+Leelkayse Clan Militia (Somalia)	624
+Lewa al-Tawhid	625
+Liberation Army of Afrin	626
+Lions of the East	627
+Lions' Den	628
+Little Psycho Criminal Gang	629
+Liwa al Baqir	630
+Loikaw Local PDF	631
+Los Ardillos Gang	632
+Los Caballeros Templarios Gang	633
+Los Chapitos Gang	634
+Los Chicateros Gang	635
+Los Ciclones Gang	636
+Los Cocoles Gang	637
+Los Costenos Gang	638
+Los Fronterizos Gang	639
+Los Granados Gang	640
+Los Grillos Gang	641
+Los Guaricheros Gang	642
+Los Herreras Gang (Mexico)	643
+Los Jairos Gang	644
+Los Jardineros Gang	645
+Los Lampones Gang	646
+Los Mayitos Gang	647
+Los Negre Gang	648
+Los Rusos Gang	649
+Los Salazar Gang	650
+Los Salgueiro Gang	651
+Los Surenos Gang	652
+Los Tlacos Gang	653
+Los Valle Valle Gang	654
+Los Viagras Gang	655
+Los Viraos Gang	656
+Lotuko Ethnic Milita (South Sudan)	657
+Lou Clan Militia (South Sudan)	658
+Luach-Jang Clan Militia (South Sudan)	659
+Luis El Feo Gang	660
+Luis Manilla Gang	661
+Luway Clan Militia (Somalia)	662
+M23: March 23 Movement	663
+MAK: Kurdistan Freedom Militias	664
+MBT: Myingyan Black Tiger	665
+MC-KC DF: Myit Chay- Kyun Chaung Defence Force	666
+MDB: Brazilian Democratic Movement	667
+MDDS: Myingyan District Drone Strike	668
+MDF: Myaung Drone Force	669
+MILF: Moro Islamic Liberation Front	670
+MINUSCA: United Nations Multidimensional Integrated Stabilization Mission in the Central African Republic (2014-)	671
+ML: Meitei Leepun	672
+MNJTF: Multinational Joint Task Force	673
+MNRF: Moe Nyo Revolution Force	674
+MNTJP/MNDAA: Myanmar National Truth and Justice Party/Myanmar National Democratic Alliance Army	675
+MONUSCO: United Nations Organization Stabilization Mission in Democratic Republic of Congo (2010-)	676
+MPDF: Mon Peace Defense Force	677
+MPLJ: Patriotic Movement for Freedom and Justice	678
+MS-13: Mara Salvatrucha	679
+MSA: Movement for Azawad Salvation	680
+MSPDF: Myaung Special People's Defense Force	681
+MTPDO: Mindon Township People Defense Organization	682
+Made With Hate	683
+Mahjeh Communal Militia	684
+Majeerteen -Osman Mahmud Bahdhulbahante Sub-Clan Militia (Somalia)	685
+Majeerteen-Issa Mahmud Sub-Clan Militia (Somalia)	686
+Majeerteen-Issa Mahmud- Mohamed Ugar Sub-Clan Militia (Somalia)	687
+Majeerteen-Omar Mahmud Sub-Clan Militia (Somalia)	688
+Majeerteen-Osman Mahmud Bahdirroble Sub-Clan Militia (Somalia)	689
+Majeerteen-Reer Abdulle-Omar Mahmud Sub-Clan Militia (Somalia)	690
+Makane Clan Militia (Somalia)	691
+Makera Community Militia (Nigeria)	692
+Malay Muslim Separatists (Thailand)	693
+Mamprusi Ethnic Militia (Ghana)	694
+Maphite (Nigeria)	695
+Marakwet Ethnic Militia (Kenya)	696
+Marc Arthur Gang	697
+Marehan Clan Militia (Somalia)	698
+Marehan-Dalal Sub-Clan Militia (Somalia)	699
+Marehan-Reer Ugas Sharmake Sub-Clan Militia (Somalia)	700
+Marehan-Wagardhac Sub-Clan Militia (Somalia)	701
+Mareko Ethnic Militia (Ethiopia)	702
+Mavoumai Communal Militia (Cameroon)	703
+Mayi Mayi (Fakat)	704
+Mayi Mayi Militia	705
+Mayi Mayi Militia (Bakata Katanga)	706
+Mayi Mayi Militia (Biloze Bishambuke)	707
+Mayi Mayi Militia (FPP/AP: Popular Patriotic Forces, People's Army-Kabidon)	708
+Mayi Mayi Militia (Raia Mutomboki)	709
+Mayi Mayi Militia (UPLC: Union of Patriots for the Liberation of Congo)	710
+Mayi Mayi Militia (Yira)	711
+Meitei Ethnic Militia (India)	712
+Melitopol Communal Militia (Ukraine)	713
+Meskan Ethnic Militia (Ethiopia)	714
+Microbes Youth Militia (Cameroon)	715
+Military Forces of Afghanistan (2021-)	716
+Military Forces of Afghanistan (2021-) Special Forces	717
+Military Forces of Algeria (2019-)	718
+Military Forces of Armenia (2018-)	719
+Military Forces of Artsakh (2007-)	720
+Military Forces of Azerbaijan (2003-)	721
+Military Forces of Bangladesh (2024-)	722
+Military Forces of Belarus (1994-)	723
+Military Forces of Belarus (1994-) Air Force	724
+Military Forces of Benin (2016-)	725
+Military Forces of Benin (2016-) Navy	726
+Military Forces of Bolivia (2020-)	727
+Military Forces of Brazil (2023-) Military Police	728
+Military Forces of Brazil (2023-) UPP: Pacifying Police Unit	729
+Military Forces of Burkina Faso (2022-)	730
+Military Forces of Burkina Faso (2022-) Special Forces	731
+Military Forces of Burundi (2005-)	732
+Military Forces of Cameroon (1982-)	733
+Military Forces of Cameroon (1982-) Gendarmerie	734
+Military Forces of Cameroon (1982-) Rapid Intervention Battalion	735
+Military Forces of Chad (2021-)	736
+Military Forces of Chile (2022-)	737
+Military Forces of China (2012-)	738
+Military Forces of Colombia (2022-)	739
+Military Forces of Comoros (2016-)	740
+Military Forces of Cuba (1959-)	741
+Military Forces of El Salvador (2019-)	742
+Military Forces of Eritrea (1993-)	743
+Military Forces of Ethiopia (2018-)	744
+Military Forces of Ethiopia (2018-) Republican Guard	745
+Military Forces of France (2017-) Gendarmerie	746
+Military Forces of France (2017-) Gendarmerie Mayotte	747
+Military Forces of Ghana (2017-)	748
+Military Forces of Guatemala (2024-)	749
+Military Forces of Guinea (2021-)	750
+Military Forces of Guinea (2021-) Gendarmerie	751
+Military Forces of Haiti (2024-)	752
+Military Forces of Honduras (2022-)	753
+Military Forces of Hungary (2010-)	754
+Military Forces of India (2014-)	755
+Military Forces of India (2014-) Para (Special Forces)	756
+Military Forces of India (2014-) Rashtriya Rifles	757
+Military Forces of India (2014-) Territorial Army	758
+Military Forces of Indonesia (2014-2024)	759
+Military Forces of Indonesia (2024-)	760
+Military Forces of Iran (1989-)	761
+Military Forces of Iran (1989-) Islamic Republic of Iran Air Force	762
+Military Forces of Iran (1989-) Islamic Revolutionary Guard Corps	763
+Military Forces of Iraq (2022-)	764
+Military Forces of Iraq (2022-) Counter-Terrorism Service	765
+Military Forces of Iraq (2022-) Peshmerga	766
+Military Forces of Iraq (2022-) Popular Mobilization Forces	767
+Military Forces of Israel (2022-)	768
+Military Forces of Israel (2022-) Golani Brigade	769
+Military Forces of Israel (2022-) Mossad	770
+Military Forces of Israel (2022-) Special Forces	771
+Military Forces of Jamaica (2016-)	772
+Military Forces of Jordan (1999-)	773
+Military Forces of Kenya (2022-)	774
+Military Forces of Kyrgyzstan (2021-)	775
+Military Forces of Lebanon (2021-)	776
+Military Forces of Lesotho (2017-)	777
+Military Forces of Libya (2014-) Haftar Faction	778
+Military Forces of Libya (2021-)	779
+Military Forces of Mali (2021-)	780
+Military Forces of Mexico (2018-)	781
+Military Forces of Moldova (2023-)	782
+Military Forces of Morocco (1999-)	783
+Military Forces of Morocco (1999-) Auxiliary Forces	784
+Military Forces of Morocco (1999-) Gendarmerie	785
+Military Forces of Mozambique (1990-)	786
+Military Forces of Myanmar (2021-)	787
+Military Forces of Myanmar (2021-) Border Guard Force	788
+Military Forces of Myanmar (2021-) People's Militia Force	789
+Military Forces of Niger (2023-)	790
+Military Forces of Nigeria (2023-)	791
+Military Forces of Northern Cyprus (2020-)	792
+Military Forces of Pakistan (2022-)	793
+Military Forces of Pakistan (2022-) Border Action Team	794
+Military Forces of Russia (2000-)	795
+Military Forces of Russia (2000-) 1st Donetsk Army Corps	796
+Military Forces of Russia (2000-) Air Force	797
+Military Forces of Russia (2000-) Chechen Battalion of Ramzan Kadyrov	798
+Military Forces of Russia (2000-) Marines	799
+Military Forces of Russia (2000-) Military Commissars	800
+Military Forces of Russia (2000-) National Guard	801
+Military Forces of Russia (2000-) National Guard - Special Purpose Police Unit	802
+Military Forces of Russia (2000-) Navy	803
+Military Forces of Russia (2000-) Territorial Defense Forces	804
+Military Forces of Rwanda (1994-)	805
+Military Forces of Rwanda (1994-) Special Forces	806
+Military Forces of Somalia (2022-)	807
+Military Forces of Somalia (2022-) Hirshabelle Security Force	808
+Military Forces of Somalia (2022-) Jubaland Security Force	809
+Military Forces of Somalia (2022-) National Intelligence and Security Agency	810
+Military Forces of Somalia (2022-) Puntland Security Force	811
+Military Forces of Somalia (2022-) Special Forces	812
+Military Forces of Somaliland (2010-2024)	813
+Military Forces of South Sudan (2011-)	814
+Military Forces of South Sudan (2011-) Military Intelligence Service	815
+Military Forces of Sri Lanka (2019-2024)	816
+Military Forces of Sri Lanka (2024-)	817
+Military Forces of Sudan (2019-)	818
+Military Forces of Syria (2000-2024)	819
+Military Forces of Syria (2000-2024) 11th Armored Division	820
+Military Forces of Syria (2000-2024) 12th Armored Brigade	821
+Military Forces of Syria (2000-2024) 15th Brigade	822
+Military Forces of Syria (2000-2024) 17th Division	823
+Military Forces of Syria (2000-2024) 18th Division	824
+Military Forces of Syria (2000-2024) 25th Armored Division	825
+Military Forces of Syria (2000-2024) 47th Armored Brigade	826
+Military Forces of Syria (2000-2024) 4th Armored Division	827
+Military Forces of Syria (2000-2024) 5th Assault Corps	828
+Military Forces of Syria (2000-2024) 7th Armored Division	829
+Military Forces of Syria (2000-2024) Air Force Intelligence Directorate	830
+Military Forces of Syria (2000-2024) Military Intelligence	831
+Military Forces of Syria (2000-2024) Prison Guards	832
+Military Forces of Syria (2000-2024) Special Forces	833
+Military Forces of Syria (2000-2024) Syrian Arab Air Defense Force	834
+Military Forces of Syria (2000-2024) Syrian Republican Guard	835
+Military Forces of Tanzania (1964-)	836
+Military Forces of Thailand (2023-)	837
+Military Forces of Thailand (2023-) Thai Rangers	838
+Military Forces of Thailand (2023-) Village Security Team	839
+Military Forces of Thailand (2023-) Volunteer Defense Corps	840
+Military Forces of Togo (2005-)	841
+Military Forces of Transnistria (2016-)	842
+Military Forces of Turkey (2016-)	843
+Military Forces of Turkey (2016-) Gendarmerie	844
+Military Forces of Turkey (2016-) Village Guards	845
+Military Forces of Uganda (1986-)	846
+Military Forces of Ukraine (2019-)	847
+Military Forces of Ukraine (2019-) Air Force	848
+Military Forces of Ukraine (2019-) International Legion	849
+Military Forces of Ukraine (2019-) Main Directorate of Intelligence	850
+Military Forces of Ukraine (2019-) Marines	851
+Military Forces of Ukraine (2019-) National Guard	852
+Military Forces of Ukraine (2019-) Navy	853
+Military Forces of Ukraine (2019-) Special Forces	854
+Military Forces of Venezuela (1999-)	855
+Military Forces of Venezuela (1999-) DGCIM: Directorate General of Military Counterintelligence	856
+Military Forces of Venezuela (1999-) GNB: Venezuelan National Guard	857
+Military Forces of Yemen (2017-) Houthi	858
+Military Forces of Yemen (2022-) Presidential Leadership Council	859
+Military Forces of Yemen (2022-) Presidential Leadership Council - 22nd Armored Brigade	860
+Military Forces of Yemen (2022-) Presidential Leadership Council - 35th Armored Brigade	861
+Military Forces of Yemen (2022-) Presidential Leadership Council - Nation Shield Forces	862
+Military Forces of Yemen (2022-) Presidential Leadership Council - Presidential Guard	863
+Military Forces of Yemen (2022-) Presidential Leadership Council - STC	864
+Military Forces of Yemen (2022-) Presidential Leadership Council - STC Hazm Brigades	865
+Military Forces of Yemen (2022-) Presidential Leadership Council - STC Shabwani Defense Forces	866
+Military Forces of Yemen (2022-) Presidential Leadership Council - STC Support and Reinforcement Brigades	867
+Military Forces of the Bahamas (2021-)	868
+Military Forces of the Central African Republic (2016-)	869
+Military Forces of the Central African Republic (2016-) Rapid Intervention Battalion	870
+Military Forces of the Democratic Republic of Congo (2019-)	871
+Military Forces of the Democratic Republic of Congo (2019-) National Intelligence Agency	872
+Military Forces of the Democratic Republic of Congo (2019-) Naval Forces	873
+Military Forces of the Democratic Republic of Congo (2019-) Republican Guard	874
+Military Forces of the Dominican Republic (2020-)	875
+Military Forces of the Philippines (2022-)	876
+Military Forces of the Philippines (2022-) Philippine Navy	877
+Military Forces of the United States (2021-)	878
+Military Forces of the United States (2021-2025)	879
+Military Forces of the United States (2021-2025) Criminal Investigation Division	880
+Militia (Maulana Fawad Khorasani)	881
+Militia (Pro-Government)	882
+Militia (Pro-Iran)	883
+Militia (Tariq Kochi)	884
+Militia (Umar Muawiya)	885
+Militia (Umari Hifzullah)	886
+Mobondo Militia (Democratic Republic of Congo)	887
+Moe Kyoe Hlatsee Pyauk Kyar Aphwe: Thunder Lightning Guerrilla Force	888
+Mohamed Zubeyr Sub-Clan Militia (Somalia)	889
+Monywa Inventor People's Defense Force	890
+Mouro Ethnic Militia (Chad)	891
+Mueda Communal Militia (Mozambique)	892
+Mujahideen Brigades	893
+Muok-Rek Sub-Clan Militia (South Sudan)	894
+Murle Ethnic Militia (South Sudan)	895
+Muslim Brotherhood	896
+Muslim Militia (Bangladesh)	897
+Muslim Militia (India)	898
+Mutiny of Military Forces of Syria (2000-2024)	899
+Mya Nan Dar Sit Sin Yay (Mandalay): Mya Nan Dar Operation (Mandalay)	900
+Myaing U.A.V Fighter	901
+Myay Auk Pyauk Kyar Tatphwe - Okpho: Underground Guerrilla Force - Okpho	902
+Myeik District PDF Collective Column 1	903
+Myeik District PDF Collective Column 2	904
+Myingyan Ranger	905
+NAS: National Salvation Front	906
+NAS: National Salvation Front (Lo Buron faction)	907
+NC: Nepali Congress	908
+NCDJ: New Juarez Cartel	909
+NDC-R: Nduma Defence of Congo (Guidon Splinter Faction)	910
+NDC: National Democratic Congress (Ghana)	911
+NLFT: National Liberation Front of Tripura	912
+NMSP-AD/NMLA-AD: New Mon State Party - Anti-military Dictatorship/Mon National Liberation Army - Anti-military Dictatorship	913
+NPA: New People's Army	914
+NPDF: National People's Defense Force - Yinmarbin	915
+NRDF: Natogyi Regional Defense Force	916
+NSCN-IM: National Socialist Council of Nagaland-Isak Muivah	917
+NSCN-K-NS: National Socialist Council of Nagaland-Khaplang-Niki Sumi	918
+NSCN-K-YA: National Socialist Council of Nagaland-Khaplang-Yung Aung	919
+NSCN-K: National Socialist Council of Nagaland-Khaplang	920
+NSCN-KK: National Socialist Council of Nagaland-Khango Konyak	921
+NSCN-R: National Socialist Council of Nagaland-Reformation	922
+NSVC: Niger State Vigilante Corps	923
+NTK: Naam Tamilar Katchi	924
+NWPDF: North-Western People Defence Force	925
+Na Gar Ni Pyauk Kyar Tatphwe - Myingyan: Red Dragon Guerrilla Force - Myingyan	926
+Naga Tribal Militia (India)	927
+Nasarawa Communal Militia (Nigeria)	928
+National Mobilization Front	929
+National Police Forces	930
+National Resistance Front	931
+Natogyi People's Defense Force	932
+Nawfia Communal Militia (Nigeria)	933
+Naxal-Maoist Rebels (India)	934
+Nei See Ma Char Shwebo Thar Aphwe: Shwebo Fighters without Borders Group	935
+Nga Moe Yeik Sit Kyaung: Nga Moe Yeik Column	936
+Ngbo Communal Militia (Nigeria)	937
+Niger Communal Militia (Nigeria)	938
+North Kordofan Communal Militia (Sudan)	939
+Northern Hawks Brigade	940
+Nuer Ethnic Militia (South Sudan)	941
+Nueva Generacion Gang	942
+Nway Oo Guerrilla Force	943
+Nyamilima Communal Militia (Democratic Republic of Congo)	944
+Nyangatom Ethnic Militia (Ethiopia)	945
+Nyatura Militia	946
+Nyatura Militia (Jean-Marie)	947
+Nyaung-U Kha Yaing Pyi Thu Sit Tite Hpyat Yay Hnint Laung Ka Sar Hmu Pa Pyauk Yay Aphwe: Nyaung-U District Anti-People's Militia and Anti-Gambling Group	948
+Nyong Clan Militia (South Sudan)	949
+OF: Operation Flame	950
+OLA: Oromo Liberation Army (Abba Torbee Splinter Faction)	951
+OLF-OLA/Central Oromia Zone: Oromo Liberation Army-Oromo Liberation Front-Central Oromia Zone Command	952
+OLF-OLA: Oromo Liberation Army-Oromo Liberation Front	953
+OP: Ordem e Progresso Gang	954
+OPRF: Oppressed People's Revolutionary Force	955
+Oblava	956
+Ofongama Communal Militia (Nigeria)	957
+Olinala Communal Militia (Mexico)	958
+Oliver Road Gang	959
+Ologba Communal Militia (Nigeria)	960
+Operation Euphrates Shield	961
+Operation Peace Spring	962
+Operation Restoring Hope	963
+Opposition Rebels (Syria)	964
+Other Backward Class Militia (India)	965
+PAFD: People's Army to Fight Dictatorship	966
+PAFF: People's Anti-Fascist Front	967
+PAPICH: Autonomous Peoples for the Protection of the Indigenous People of Chiapas	968
+PBSP-Red Flag: Purba Banglar Sarbahara Party-Red Flag	969
+PBUG: Peacock Brother Urban Guerrilla	970
+PCC: First Capital Command	971
+PCE: First Command of Eunapolis	972
+PCV: Vitoria First Command	973
+PDC: People's Defense Comrade	974
+PDF Southern Military Region	975
+PDF: People's Defense Force	976
+PDO/PDA: People's Democratic Organization/People's Democratic Army	977
+PDP: People's Democratic Party	978
+PDT: Democratic Labor Party	979
+PFG: Petroleum Facilities Guard	980
+PFLP-GC: Popular Front for the Liberation of Palestine - General Command	981
+PFLP: Popular Front for the Liberation of Palestine	982
+PIJ: Katibat Balata	983
+PIJ: Katibat Jaba	984
+PIJ: Katibat Jenin	985
+PIJ: Katibat Nablus	986
+PIJ: Katibat Qabatiyah	987
+PIJ: Katibat Silat al Harithiyah	988
+PIJ: Katibat Tubas	989
+PIJ: Katibat Tulkarm	990
+PIJ: Palestinian Islamic Jihad	991
+PJAK: Kurdistan Free Life Party	992
+PKDF MMU: People's Knight Defense Force - Myinmu	993
+PKK-YJA STAR: Kurdistan Workers Party-YJA STAR	994
+PKK: Kurdistan Workers Party	995
+PLA: People's Liberation Army	996
+PLA: People's Liberation Army of Manipur	997
+PLGA: People's Liberation Guerrilla Army	998
+PNLO/PNLA: Pa-Oh National Liberation Organization/Pa-Oh National Liberation Army	999
+PNO/PNA: Pa-Oh National Organization/Pa-Oh National Army	1000
+PPDF: Pale People's Defence Force	1001
+PRD: Democratic Renewal Party	1002
+PREPAK-Pro: People's Revolutionary Party of Kangleipak-Progressive	1003
+PREPAK: People's Revolutionary Party of Kangleipak	1004
+PRNC: Party of the Rally of the Central African Nation	1005
+PS: Socialist Party of Chile	1006
+PSB: Brazilian Socialist Party	1007
+PSLF/TNLA: Palaung State Liberation Front/Ta'ang National Liberation Army	1008
+PTTF: Peace Takers Task Force	1009
+Pakam-Nielniel-Agar Sub-Clan Militia (South Sudan)	1010
+Paswan Caste Militia (India)	1011
+Peacock Drone Team - Myaung	1012
+People Defense Force - Yangon Region	1013
+People's Defence Force - Salin	1014
+People's Defense Force - Bago District	1015
+People's Defense Force - Gangaw District	1016
+People's Defense Force - Hpasawng	1017
+People's Defense Force - Kalay	1018
+People's Defense Force - Kale District	1019
+People's Defense Force - Kamma	1020
+People's Defense Force - Kanbalu	1021
+People's Defense Force - Kanbalu District	1022
+People's Defense Force - Katha	1023
+People's Defense Force - Kawlin District	1024
+People's Defense Force - Kawthoung	1025
+People's Defense Force - Launglon	1026
+People's Defense Force - Madaya	1027
+People's Defense Force - Mandalay	1028
+People's Defense Force - Mandalay District	1029
+People's Defense Force - Meiktila	1030
+People's Defense Force - Minbu District	1031
+People's Defense Force - Mingin	1032
+People's Defense Force - Mingun	1033
+People's Defense Force - Monywa	1034
+People's Defense Force - Monywa District	1035
+People's Defense Force - Myaing	1036
+People's Defense Force - Myaung	1037
+People's Defense Force - Myeik	1038
+People's Defense Force - Myeik District	1039
+People's Defense Force - Myingyan District	1040
+People's Defense Force - Natmauk	1041
+People's Defense Force - Natogyi (PaKaPha)	1042
+People's Defense Force - Ngazun	1043
+People's Defense Force - North Okkalapa	1044
+People's Defense Force - Pakokku	1045
+People's Defense Force - Pakokku District	1046
+People's Defense Force - Palaw	1047
+People's Defense Force - Patheingyi	1048
+People's Defense Force - Pauk	1049
+People's Defense Force - Phyu	1050
+People's Defense Force - Pyay District	1051
+People's Defense Force - Shwe Tan Myay	1052
+People's Defense Force - Shwebo	1053
+People's Defense Force - Shwebo District	1054
+People's Defense Force - Sidotaya	1055
+People's Defense Force - South Monywa	1056
+People's Defense Force - Tabayin	1057
+People's Defense Force - Tamu District	1058
+People's Defense Force - Tanintharyi	1059
+People's Defense Force - Taungtha	1060
+People's Defense Force - Taze	1061
+People's Defense Force - Thandaung	1062
+People's Defense Force - Thayarwady District	1063
+People's Defense Force - Thayet District	1064
+People's Defense Force - Thayetchaung	1065
+People's Defense Force - Thegon	1066
+People's Defense Force - Upper Minhla	1067
+People's Defense Force - Yamethin	1068
+People's Defense Force - Yangon	1069
+People's Defense Force - Ye-U	1070
+People's Defense Force - Yedashe	1071
+People's Defense Force - Yenangyaung	1072
+People's Defense Force - Yesagyo	1073
+People's Defense Force - Yinmarbin	1074
+People's Security Force	1075
+Peshawar Communal Militia (Pakistan)	1076
+Phoenix DF: Phoenix Defense Force (Nattalin)	1077
+Pirates (Nigeria)	1078
+Plateau Communal Militia (Nigeria)	1079
+Pokot Ethnic Militia (Kenya)	1080
+Police Forces of Afghanistan (2021-)	1081
+Police Forces of Afghanistan (2021-) General Directorate of Intelligence	1082
+Police Forces of Algeria (2019-)	1083
+Police Forces of Argentina (2023-)	1084
+Police Forces of Bangladesh (2024-)	1085
+Police Forces of Bangladesh (2024-) Bangladesh Coast Guard	1086
+Police Forces of Bangladesh (2024-) Border Guards Bangladesh	1087
+Police Forces of Bangladesh (2024-) Rapid Action Battalion	1088
+Police Forces of Bangladesh (2024-) River Police	1089
+Police Forces of Belarus (1994-)	1090
+Police Forces of Belarus (1994-) Border Guards	1091
+Police Forces of Belgium (2020-2025)	1092
+Police Forces of Benin (2016-)	1093
+Police Forces of Bolivia (2020-)	1094
+Police Forces of Bosnia and Herzegovina (2018-)	1095
+Police Forces of Brazil (2023-)	1096
+Police Forces of Brazil (2023-) Civil Police	1097
+Police Forces of Brazil (2023-) Federal Police	1098
+Police Forces of Brazil (2023-) Municipal Guards	1099
+Police Forces of Burkina Faso (2022-)	1100
+Police Forces of Burkina Faso (2022-) Gendarmerie	1101
+Police Forces of Burundi (2005-)	1102
+Police Forces of Burundi (2005-) National Intelligence Service	1103
+Police Forces of Cameroon (1982-)	1104
+Police Forces of Cameroon (1982-) Customs	1105
+Police Forces of Canada (2015-)	1106
+Police Forces of Chad (2021-)	1107
+Police Forces of Chad (2021-) Customs	1108
+Police Forces of Chile (2022-)	1109
+Police Forces of China (2012-)	1110
+Police Forces of Colombia (2022-)	1111
+Police Forces of Colombia (2022-) Prison Guards	1112
+Police Forces of Colombia (2022-) UNDMO: National Unit for Dialogue and Maintenance of Order	1113
+Police Forces of Colombia (2022-) UNP: National Unit for Protection	1114
+Police Forces of Comoros (2016-)	1115
+Police Forces of Comoros (2016-) Gendarmerie	1116
+Police Forces of Costa Rica (2022-)	1117
+Police Forces of Croatia (2016-)	1118
+Police Forces of Cuba (1959-)	1119
+Police Forces of Cuba (1959-) Prison Guards	1120
+Police Forces of Cyprus (2023-)	1121
+Police Forces of Cyprus (2023-) MMAD	1122
+Police Forces of Ecuador (2023-)	1123
+Police Forces of Egypt (2014-)	1124
+Police Forces of El Salvador (2019-)	1125
+Police Forces of Eritrea (1993-)	1126
+Police Forces of Ethiopia (2018-) Amhara State Police	1127
+Police Forces of Ethiopia (2018-) Oromia State Police	1128
+Police Forces of Ethiopia (2018-) Tigray State Police	1129
+Police Forces of Ethiopia (2023-) Central Ethiopia State Police	1130
+Police Forces of Ethiopia (2023-) South Ethiopia State Police	1131
+Police Forces of France (2017-)	1132
+Police Forces of France (2017-) Prison Guards	1133
+Police Forces of France (2017-) Prison Guards Mayotte	1134
+Police Forces of Gabon (2023-)	1135
+Police Forces of Germany (2021-)	1136
+Police Forces of Ghana (2017-)	1137
+Police Forces of Ghana (2017-) Ghana Immigration Service	1138
+Police Forces of Greece (2019-)	1139
+Police Forces of Greece (2019-) Border Guard	1140
+Police Forces of Greece (2019-) Department of Explosive Devices Disposal	1141
+Police Forces of Greece (2019-) Units for the Reinstatement of Order	1142
+Police Forces of Guatemala (2024-)	1143
+Police Forces of Guinea (2021-)	1144
+Police Forces of Haiti (2024-)	1145
+Police Forces of Honduras (2022-)	1146
+Police Forces of Honduras (2022-) Prison Guards	1147
+Police Forces of India (2014-)	1148
+Police Forces of India (2014-) Assam Rifles	1149
+Police Forces of India (2014-) Bomb Disposal Squad	1150
+Police Forces of India (2014-) Border Security Force	1151
+Police Forces of India (2014-) Central Industrial Security Force	1152
+Police Forces of India (2014-) Central Reserve Police Force	1153
+Police Forces of India (2014-) District Reserve Group	1154
+Police Forces of India (2014-) Home Guards	1155
+Police Forces of India (2014-) Indian Reserve Battalion	1156
+Police Forces of India (2014-) Indo-Tibetan Border Police Force	1157
+Police Forces of India (2014-) Intelligence Bureau	1158
+Police Forces of India (2014-) Manipur Rifles	1159
+Police Forces of India (2014-) National Investigation Agency	1160
+Police Forces of India (2014-) Prison Guards	1161
+Police Forces of India (2014-) Railway Protection Force	1162
+Police Forces of India (2014-) Rapid Action Force	1163
+Police Forces of India (2014-) Special Task Force	1164
+Police Forces of Indonesia (2014-2024)	1165
+Police Forces of Indonesia (2014-2024) Detachment 88	1166
+Police Forces of Indonesia (2014-2024) Mobile Brigade Corps	1167
+Police Forces of Indonesia (2014-2024) Prison Guards	1168
+Police Forces of Indonesia (2024-)	1169
+Police Forces of Iran (1989-)	1170
+Police Forces of Iran (1989-) Islamic Republic of Iran Border Guard Command	1171
+Police Forces of Iraq (2022-)	1172
+Police Forces of Iraq (2022-) Asayish	1173
+Police Forces of Iraq (2022-) Counter-Terrorism Group	1174
+Police Forces of Iraq (2022-) Facilities Protection Service	1175
+Police Forces of Iraq (2022-) Falcons Intelligence Cell	1176
+Police Forces of Iraq (2022-) Iraqi National Intelligence Service	1177
+Police Forces of Iraq (2022-) Iraqi National Security Service	1178
+Police Forces of Iraq (2022-) Rapid Reaction Force	1179
+Police Forces of Israel (2022-)	1180
+Police Forces of Israel (2022-) Border Police	1181
+Police Forces of Israel (2022-) Yamam	1182
+Police Forces of Italy (2022-)	1183
+Police Forces of Italy (2022-) Prison Guards	1184
+Police Forces of Jamaica (2016-)	1185
+Police Forces of Kenya (2022-)	1186
+Police Forces of Kenya (2022-) General Service Unit	1187
+Police Forces of Kenya (2022-) Kenya Forest Service Rangers	1188
+Police Forces of Kenya (2022-) National Police Reservists	1189
+Police Forces of Kenya (2022-) Prison Guards	1190
+Police Forces of Kyrgyzstan (2021-)	1191
+Police Forces of Kyrgyzstan (2021-) Prison Guards	1192
+Police Forces of Kyrgyzstan (2021-) State Committee for National Security	1193
+Police Forces of Lebanon (2021-)	1194
+Police Forces of Lesotho (2017-)	1195
+Police Forces of Libya (2014-) Internal Security Device	1196
+Police Forces of Libya (2021-)	1197
+Police Forces of Libya (2021-) Judicial Security	1198
+Police Forces of Libya (2021-) Stability Support Apparatus	1199
+Police Forces of Lithuania (2020-)	1200
+Police Forces of Malawi (2020-)	1201
+Police Forces of Malaysia (2022-)	1202
+Police Forces of Mali (2021-)	1203
+Police Forces of Mali (2021-) Customs	1204
+Police Forces of Mali (2021-) Gendarmerie	1205
+Police Forces of Mauritania (2019-)	1206
+Police Forces of Mexico (2018-)	1207
+Police Forces of Mexico (2018-) Federal Police	1208
+Police Forces of Mexico (2018-) Ministerial Federal Police	1209
+Police Forces of Mexico (2018-) National Guard	1210
+Police Forces of Mexico (2018-) Prison Guards	1211
+Police Forces of Mexico (2018-) State Police	1212
+Police Forces of Moldova (2023-)	1213
+Police Forces of Morocco (1999-)	1214
+Police Forces of Mozambique (1990-)	1215
+Police Forces of Myanmar (2021-)	1216
+Police Forces of Myanmar (2021-) Border Guard Police	1217
+Police Forces of Myanmar (2021-) Prison Guards	1218
+Police Forces of Nepal (2022-)	1219
+Police Forces of Nepal (2022-) Armed Police Force	1220
+Police Forces of Nicaragua (2007-)	1221
+Police Forces of Niger (2023-)	1222
+Police Forces of Niger (2023-) National Guard	1223
+Police Forces of Nigeria (2023-)	1224
+Police Forces of Nigeria (2023-) Department of State Services	1225
+Police Forces of Nigeria (2023-) NSCDC: Nigeria Security and Civil Defence Corps	1226
+Police Forces of Nigeria (2023-) Nigeria Customs Service	1227
+Police Forces of Nigeria (2023-) Prison Guards	1228
+Police Forces of Pakistan (2022-)	1229
+Police Forces of Pakistan (2022-) Anti-Terrorist Force	1230
+Police Forces of Pakistan (2022-) Balochistan Levies	1231
+Police Forces of Pakistan (2022-) Bomb Disposal Squad	1232
+Police Forces of Pakistan (2022-) Coast Guard	1233
+Police Forces of Pakistan (2022-) Counter Terrorism Department	1234
+Police Forces of Pakistan (2022-) Frontier Corps	1235
+Police Forces of Palestine (1994-) West Bank	1236
+Police Forces of Palestine (2007-) Gaza Strip	1237
+Police Forces of Panama (2019-)	1238
+Police Forces of Peru (2022-)	1239
+Police Forces of Poland (2023-)	1240
+Police Forces of Portugal (2024-)	1241
+Police Forces of Puerto Rico (2017-)	1242
+Police Forces of Romania (2023-)	1243
+Police Forces of Russia (2000-)	1244
+Police Forces of Russia (2000-) Centre for Combating Extremism	1245
+Police Forces of Russia (2000-) Federal Security Service	1246
+Police Forces of Russia (2000-) Prison Guards	1247
+Police Forces of Russia (2000-) State Emergency Service	1248
+Police Forces of Russian Occupation Government (2022-)	1249
+Police Forces of Rwanda (1994-)	1250
+Police Forces of Serbia (2017-)	1251
+Police Forces of Singapore (1965-)	1252
+Police Forces of Somalia (2022-)	1253
+Police Forces of Somalia (2022-) Galmudug Police Force	1254
+Police Forces of Somalia (2022-) Hirshabelle Police Forces	1255
+Police Forces of Somalia (2022-) Jubaland Police Force	1256
+Police Forces of Somalia (2022-) Puntland Maritime Police Force	1257
+Police Forces of Somalia (2022-) Puntland Police Force	1258
+Police Forces of Somalia (2022-) Southwest Special Police Forces	1259
+Police Forces of Somalia (2022-) Special Forces	1260
+Police Forces of Somaliland (2010-2024)	1261
+Police Forces of South Africa (2024-)	1262
+Police Forces of South Korea (2022-)	1263
+Police Forces of South Sudan (2011-)	1264
+Police Forces of South Sudan (2011-) National Security Service	1265
+Police Forces of Spain (2020-)	1266
+Police Forces of Sri Lanka (2019-2024)	1267
+Police Forces of Sri Lanka (2024-)	1268
+Police Forces of Sudan (2019-)	1269
+Police Forces of Sweden (2019-)	1270
+Police Forces of Syria (2000-2024)	1271
+Police Forces of Syria (2000-2024) General Intelligence Directorate	1272
+Police Forces of Syria (2000-2024) Political Intelligence	1273
+Police Forces of Syria (2000-2024) State Security	1274
+Police Forces of Tanzania (1964-)	1275
+Police Forces of Thailand (2023-)	1276
+Police Forces of Thailand (2023-) Border Patrol Police	1277
+Police Forces of Thailand (2023-) Explosive Ordinance Disposal	1278
+Police Forces of Thailand (2023-) Forestry Officials	1279
+Police Forces of Trinidad and Tobago (2015-)	1280
+Police Forces of Turkey (2016-)	1281
+Police Forces of Turkey (2016-) National Intelligence Organization	1282
+Police Forces of Turkey (2016-) Prison Guards	1283
+Police Forces of Turkey (2016-) Watchmen	1284
+Police Forces of Uganda (1986-)	1285
+Police Forces of Uganda (1986-) Internal Security Organisation	1286
+Police Forces of Uganda (1986-) Prison Guards	1287
+Police Forces of Uganda (1986-) Uganda Wildlife Authority	1288
+Police Forces of Ukraine (2019-)	1289
+Police Forces of Ukraine (2019-) Special Tasks Patrol Police	1290
+Police Forces of Ukraine (2019-) State Border Guard Service	1291
+Police Forces of Ukraine (2019-) State Emergency Service of Ukraine	1292
+Police Forces of Uzbekistan (2016-)	1293
+Police Forces of Venezuela (1999-)	1294
+Police Forces of Venezuela (1999-) CPNB: National Bolivarian Police	1295
+Police Forces of Venezuela (1999-) Prison Guards	1296
+Police Forces of Venezuela (1999-) SEBIN: Bolivarian Intelligence Service	1297
+Police Forces of Yemen (2017-) Houthi	1298
+Police Forces of Yemen (2017-) Houthi - Prison Guards	1299
+Police Forces of Yemen (2017-) Houthi - Security and Intelligence Service	1300
+Police Forces of Yemen (2022-) Presidential Leadership Council	1301
+Police Forces of Yemen (2022-) Presidential Leadership Council - Prison Guards	1302
+Police Forces of Yemen (2022-) Presidential Leadership Council - STC Aden Security	1303
+Police Forces of Yemen (2022-) Presidential Leadership Council - STC Security Belt Forces	1304
+Police Forces of Yemen (2022-) Presidential Leadership Council - Special Security Forces	1305
+Police Forces of Zambia (2021-)	1306
+Police Forces of Zimbabwe (2017-)	1307
+Police Forces of the Central African Republic (2016-)	1308
+Police Forces of the Democratic Republic of Congo (2019-)	1309
+Police Forces of the Democratic Republic of Congo (2019-) Eco-Guards	1310
+Police Forces of the Democratic Republic of Congo (2019-) Prison Guards	1311
+Police Forces of the Dominican Republic (2020-)	1312
+Police Forces of the Ivory Coast (2011-)	1313
+Police Forces of the Netherlands (2024-)	1314
+Police Forces of the Philippines (2022-)	1315
+Police Forces of the Philippines (2022-) Barangay Tanod	1316
+Police Forces of the Philippines (2022-) Bureau of Fire Protection	1317
+Police Forces of the Philippines (2022-) Prison Guards	1318
+Police Forces of the Philippines (2022-) Provincial Mobile Force Company	1319
+Police Forces of the Philippines (2022-) Regional Mobile Force Battalion	1320
+Police Forces of the United Kingdom (2024-)	1321
+Police Forces of the United States (2021-2025)	1322
+Police Forces of the United States (2021-2025) Capitol Police	1323
+Police Forces of the United States (2021-2025) Department of Homeland Security	1324
+Police Forces of the United States (2021-2025) National Park Service	1325
+Police Forces of the United States (2021-2025) Secret Service	1326
+Policia Comunitaria	1327
+Polisario Front	1328
+Popular Committees	1329
+Private Security Forces (Brazil)	1330
+Private Security Forces (Central African Republic)	1331
+Private Security Forces (China)	1332
+Private Security Forces (Ghana)	1333
+Private Security Forces (Guatemala)	1334
+Private Security Forces (Guinea)	1335
+Private Security Forces (India)	1336
+Private Security Forces (Indonesia)	1337
+Private Security Forces (Iraq)	1338
+Private Security Forces (Kenya)	1339
+Private Security Forces (Mexico)	1340
+Private Security Forces (Netherlands)	1341
+Private Security Forces (Nigeria)	1342
+Private Security Forces (Pakistan)	1343
+Private Security Forces (Peru)	1344
+Private Security Forces (Russia)	1345
+Private Security Forces (Serbia)	1346
+Private Security Forces (South Africa)	1347
+Private Security Forces (South Korea)	1348
+Private Security Forces (South Sudan)	1349
+Private Security Forces (Syria)	1350
+Private Security Forces (Turkey)	1351
+Private Security Forces (Uganda)	1352
+Private Security Forces (United States)	1353
+Private Security Forces (Venezuela)	1354
+Protesters (Afghanistan)	1355
+Protesters (Argentina)	1356
+Protesters (Bangladesh)	1357
+Protesters (Belgium)	1358
+Protesters (Bolivia)	1359
+Protesters (Brazil)	1360
+Protesters (Cameroon)	1361
+Protesters (Canada)	1362
+Protesters (Chile)	1363
+Protesters (China)	1364
+Protesters (Colombia)	1365
+Protesters (Croatia)	1366
+Protesters (Cuba)	1367
+Protesters (Cyprus)	1368
+Protesters (Democratic Republic of Congo)	1369
+Protesters (Egypt)	1370
+Protesters (Ethiopia)	1371
+Protesters (France)	1372
+Protesters (Germany)	1373
+Protesters (Ghana)	1374
+Protesters (Greece)	1375
+Protesters (Guinea)	1376
+Protesters (Haiti)	1377
+Protesters (Honduras)	1378
+Protesters (India)	1379
+Protesters (Indonesia)	1380
+Protesters (Iran)	1381
+Protesters (Iraq)	1382
+Protesters (Israel)	1383
+Protesters (Italy)	1384
+Protesters (Ivory Coast)	1385
+Protesters (Kenya)	1386
+Protesters (Lebanon)	1387
+Protesters (Libya)	1388
+Protesters (Mali)	1389
+Protesters (Mexico)	1390
+Protesters (Moldova)	1391
+Protesters (Morocco)	1392
+Protesters (Mozambique)	1393
+Protesters (Netherlands)	1394
+Protesters (Nigeria)	1395
+Protesters (Norway)	1396
+Protesters (Pakistan)	1397
+Protesters (Palestine)	1398
+Protesters (Panama)	1399
+Protesters (Peru)	1400
+Protesters (Philippines)	1401
+Protesters (Poland)	1402
+Protesters (Portugal)	1403
+Protesters (Russia)	1404
+Protesters (Serbia)	1405
+Protesters (Somalia)	1406
+Protesters (South Africa)	1407
+Protesters (South Korea)	1408
+Protesters (South Sudan)	1409
+Protesters (Spain)	1410
+Protesters (Sri Lanka)	1411
+Protesters (Sudan)	1412
+Protesters (Sweden)	1413
+Protesters (Syria)	1414
+Protesters (Turkey)	1415
+Protesters (Uganda)	1416
+Protesters (United Kingdom)	1417
+Protesters (United States)	1418
+Protesters (Venezuela)	1419
+Protesters (Yemen)	1420
+Pu War Ni Sit Kyaung: Red Bandana Column	1421
+Pyu Saw Htee	1422
+QDW: National Defence Forces	1423
+QSD: Syrian Democratic Forces	1424
+QSD: Syrian Democratic Forces - Intelligence	1425
+Qaterji Militia	1426
+RCSS/SSA-S: Restoration Council of Shan State/Shan State Army-South	1427
+RDF PKU: Royal Defense Force PKU	1428
+RED-TABARA: Resistance for the Rule of Law in Burundi	1429
+RENAMO: Mozambican National Resistance	1430
+RFF: Regional Friend Fighters	1431
+RMM: Mapuche Malleco Resistance	1432
+RRR: Return, Reclamation and Rehabilitation	1433
+RSF: Red Star Front	1434
+RSO: Rohingya Solidarity Organization	1435
+RUC: Rangoon Urban Column	1436
+Rabiz Tribal Militia (Yemen)	1437
+Rahanweyn Clan Militia (Somalia)	1438
+Rahanweyn-Hadame Sub-Clan Militia (Somalia)	1439
+Rapid Support Forces	1440
+Reserve Forces Eagles Brigade	1441
+Rioters (Afghanistan)	1442
+Rioters (Argentina)	1443
+Rioters (Bangladesh)	1444
+Rioters (Benin)	1445
+Rioters (Bolivia)	1446
+Rioters (Brazil)	1447
+Rioters (Burkina Faso)	1448
+Rioters (Burundi)	1449
+Rioters (Cameroon)	1450
+Rioters (Canada)	1451
+Rioters (Central African Republic)	1452
+Rioters (Chile)	1453
+Rioters (China)	1454
+Rioters (Colombia)	1455
+Rioters (Comoros)	1456
+Rioters (Costa Rica)	1457
+Rioters (Croatia)	1458
+Rioters (Cuba)	1459
+Rioters (Cyprus)	1460
+Rioters (Democratic Republic of Congo)	1461
+Rioters (Ecuador)	1462
+Rioters (Egypt)	1463
+Rioters (El Salvador)	1464
+Rioters (France)	1465
+Rioters (Germany)	1466
+Rioters (Ghana)	1467
+Rioters (Greece)	1468
+Rioters (Guatemala)	1469
+Rioters (Guinea)	1470
+Rioters (Haiti)	1471
+Rioters (Honduras)	1472
+Rioters (India)	1473
+Rioters (Indonesia)	1474
+Rioters (International)	1475
+Rioters (Iran)	1476
+Rioters (Iraq)	1477
+Rioters (Ireland)	1478
+Rioters (Israel)	1479
+Rioters (Italy)	1480
+Rioters (Ivory Coast)	1481
+Rioters (Jamaica)	1482
+Rioters (Kenya)	1483
+Rioters (Kyrgyzstan)	1484
+Rioters (Lebanon)	1485
+Rioters (Libya)	1486
+Rioters (Malawi)	1487
+Rioters (Mali)	1488
+Rioters (Mauritania)	1489
+Rioters (Mayotte)	1490
+Rioters (Mexico)	1491
+Rioters (Morocco)	1492
+Rioters (Mozambique)	1493
+Rioters (Nepal)	1494
+Rioters (Netherlands)	1495
+Rioters (Niger)	1496
+Rioters (Nigeria)	1497
+Rioters (Norway)	1498
+Rioters (Pakistan)	1499
+Rioters (Palestine)	1500
+Rioters (Peru)	1501
+Rioters (Philippines)	1502
+Rioters (Portugal)	1503
+Rioters (Russia)	1504
+Rioters (Rwanda)	1505
+Rioters (Somalia)	1506
+Rioters (South Africa)	1507
+Rioters (South Korea)	1508
+Rioters (South Sudan)	1509
+Rioters (Spain)	1510
+Rioters (Sri Lanka)	1511
+Rioters (Sudan)	1512
+Rioters (Sweden)	1513
+Rioters (Syria)	1514
+Rioters (Tanzania)	1515
+Rioters (Togo)	1516
+Rioters (Turkey)	1517
+Rioters (Uganda)	1518
+Rioters (Ukraine)	1519
+Rioters (United States)	1520
+Rioters (Venezuela)	1521
+Rioters (Yemen)	1522
+Rioters (Zambia)	1523
+Rioters (Zimbabwe)	1524
+Rioters (eSwatini)	1525
+Rizeigat Ethnic Militia (Sudan)	1526
+Rohingya Muslim Militia (Myanmar)	1527
+Ronda Campesina	1528
+Royal Falcon Guerrilla Force	1529
+SAD: Shiromani Akali Dal	1530
+SAF: Student Armed Force	1531
+SDF: Special Deterrence Forces	1532
+SEC: Supreme Eiye Confraternity (Nigeria)	1533
+SGDF: Sky Ghost Drone Force	1534
+SJPDF: Shwe Joe Phyu People's Defense Force	1535
+SLM/A-Minnawi: Sudan Liberation Movement/Army (Minnawi Faction)	1536
+SLN-LPDF: Salin Local People's Defense Force	1537
+SM(KDF): Salailen Mapari (Kangleipak Defence Force)	1538
+SNA: Shanni Nationalities Army	1539
+SNS: Serbian Progressive Party	1540
+SNSD: Alliance of Independent Social Democrats	1541
+SOREPA: Socialist Revolution Party Kangleipak	1542
+SP: Socialist Party	1543
+SPDF: Shwedaung People's Defense Force	1544
+SPLM-In Opposition: Sudan People's Liberation Movement-In Opposition	1545
+SPLM-N-Abdelaziz: Sudan People's Liberation Movement (North) (Abdelaziz al-Hilu faction)	1546
+SRA: Salingyi Revolution Army	1547
+SRA: Sindhudesh Revolutionary Army	1548
+SRF: Student Revolution Force	1549
+SRSF: Snipe Rangers Force	1550
+SSB: Sool, Sanaag and Bari Militia	1551
+SSC: Sool, Sanaag and Cayn Militia	1552
+SSNP-L: Syrian Social Nationalist Party in Lebanon	1553
+SSPP/SSA-N: Shan State Progress Party/Shan State Army-North	1554
+SSRY: 1008 Infantry - Southern Shan Revolution Youth	1555
+SVC: Supreme Vikings Confraternity (Nigeria)	1556
+Samburu Ethnic Militia (Kenya)	1557
+San Juan Communal Militia (Mexico)	1558
+Santa Rosa de Lima Cartel	1559
+Sara Ethnic Militia (Chad)	1560
+Seleka Militia	1561
+Set Kyar Kar Kwei Yae Tatphwe: Set Kyar Defense Force	1562
+Settlement Emergency Squad	1563
+Settlers (Israel)	1564
+Seven Star Tatphwe: Seven Star Force	1565
+Sheeqaal Clan Militia (Somalia)	1566
+Shiite Muslim Militia (Pakistan)	1567
+Shwe Gyo Hpyu: Golden White Dove	1568
+Shwebo Ahr Man Myo Pya Pyauk Kyar: Shwebo Vigor Urban Guerrilla	1569
+Shwebo Crocodile	1570
+Sinaloa Cartel	1571
+Sittaung Myit Wan Yedashe Sit Sin Yay Aphwe: Sittaung River Basin Yedashe Operation Force	1572
+Ski Mask Gang	1573
+Smugglers (International)	1574
+Smugglers (Iran)	1575
+Smugglers (Iraq)	1576
+Smugglers (Saudi Arabia)	1577
+Smugglers (Syria)	1578
+Snake Eyes - PDF (Shwebo)	1579
+Sokoto Communal Militia (Nigeria)	1580
+Sole Perpetrator (United States)	1581
+Solo Para Locos Gang	1582
+Somali Ethnic Militia (Kenya)	1583
+South Kordofan Communal Militia (Sudan)	1584
+Southern Dawei People's Defense Force	1585
+Southern Resistance	1586
+Southern YSO PDF: Southern Yesagyo PDF	1587
+Spring Warriors Column	1588
+Sudanese Popular Resistance Factions	1589
+Sultan Malek Shah Brigade	1590
+Sultan Murad Division	1591
+Sultan Suleiman Shah Brigade (Syria)	1592
+Sunni Muslim Militia (Pakistan)	1593
+Surman Communal Militia (Libya)	1594
+Syrian Resistance	1595
+Syrian Salvation Government	1596
+TCP: Pure Third Command	1597
+TDP: Telugu Desam Party	1598
+TELF: The Elite Liberation Force	1599
+TMC: Trinamool Congress Party	1600
+TMF: Tribal Mobilization Forces	1601
+TPLF: Tavoy People Liberation Force	1602
+TPLF: Tigray People's Liberation Front	1603
+TPNPB: West Papua National Liberation Army	1604
+TR: THU RAIN	1605
+TRF: Taze Revolution Force	1606
+TRF: The Resistance Front	1607
+TSPC: Tritiya Sammelan Prastuti Committee	1608
+TTP-HGB: Tehreek-i-Taliban Pakistan-Hafiz Gul Bahadur	1609
+TTP-MN: Tehreek-i-Taliban Pakistan-Mullah Nazir	1610
+TTP-TGM: Tehreek-i-Taliban Pakistan-Tipu Gul Marwat	1611
+TTP: Tehreek-i-Taliban Pakistan	1612
+TYF: Tanintharyi Yoma Force	1613
+Tajpur Tigra Communal Militia (India)	1614
+Takhtikhel Tribal Militia (Pakistan)	1615
+Taliban Gang	1616
+Taraba Communal Militia (Nigeria)	1617
+Taung Nyo Sit Kyaung: Taung Nyo Column	1618
+Taung Pan Ni Ah Htoo Pyauk Kyar Tatphwe: Red Wing Special Guerrilla Force	1619
+Taungoo Kha Yaing Pyi Thu Kar Kwei Yae Tat Ma Taw Tat Yin Ahmat 3502: Taungoo District People's Defense Force Battalion 3502	1620
+Taw Bone Gyi Pyi Thu Kar Kwei Yay Aphwe: Taw Bone Gyi People's Defense Force	1621
+Taw Gyi Mway Hauk Tatphwe: King Cobra Force	1622
+Tehuixtla Communal Militia (Mexico)	1623
+Thaw Thi Kho	1624
+Thayarwady Galon Tatphwe: Thayarwady Galon Force	1625
+Thony-Rek Sub-Clan Militia (South Sudan)	1626
+Three Stars People's Defense Force	1627
+Toposa Ethnic Militia (South Sudan)	1628
+Trem Bala Gang	1629
+Tren del Llano Gang	1630
+Tribal and Clan Forces	1631
+Tropa do A Gang	1632
+True Fighter MMU PDF	1633
+Turkana Ethnic Militia (Kenya)	1634
+Twenty-four Drone	1635
+Twic Clan Militia (South Sudan)	1636
+Twirwaneho Ethnic Militia (Democratic Republic of Congo)	1637
+UBA: United Baloch Army	1638
+UKNA: United Kuki National Army	1639
+ULA/AA: United League of Arakan/Arakan Army	1640
+ULFA-I: United Liberation Front of Asom-Independent	1641
+UNFICYP: United Nations Peacekeeping Force in Cyprus	1642
+UNIFIL: United Nations Interim Force in Lebanon (1978-)	1643
+UNLF-K: United National Liberation Front-Koireng	1644
+UNLF-P: United National Liberation Front-Pambei	1645
+UNLF: United National Liberation Front	1646
+UNRWA: United Nations Relief and Works Agency	1647
+UPC: Union for Peace in the Central African Republic	1648
+UPDF: United People's Democratic Front	1649
+USO: Urban Special Operation	1650
+UURF: Urban Underground Revolution Force - YSO	1651
+Unicorn Guerrilla Force	1652
+Unidentified Anti-Coup Armed Group	1653
+Unidentified Armed Group (Afghanistan)	1654
+Unidentified Armed Group (Albania)	1655
+Unidentified Armed Group (Algeria)	1656
+Unidentified Armed Group (Argentina)	1657
+Unidentified Armed Group (Bangladesh)	1658
+Unidentified Armed Group (Belarus)	1659
+Unidentified Armed Group (Belgium)	1660
+Unidentified Armed Group (Benin)	1661
+Unidentified Armed Group (Bolivia)	1662
+Unidentified Armed Group (Bosnia and Herzegovina)	1663
+Unidentified Armed Group (Brazil)	1664
+Unidentified Armed Group (Burkina Faso)	1665
+Unidentified Armed Group (Cameroon)	1666
+Unidentified Armed Group (Canada)	1667
+Unidentified Armed Group (Central African Republic)	1668
+Unidentified Armed Group (Chad)	1669
+Unidentified Armed Group (Chile)	1670
+Unidentified Armed Group (China)	1671
+Unidentified Armed Group (Colombia)	1672
+Unidentified Armed Group (Costa Rica)	1673
+Unidentified Armed Group (Croatia)	1674
+Unidentified Armed Group (Cyprus)	1675
+Unidentified Armed Group (Czech Republic)	1676
+Unidentified Armed Group (Democratic Republic of Congo)	1677
+Unidentified Armed Group (Denmark)	1678
+Unidentified Armed Group (Dominican Republic)	1679
+Unidentified Armed Group (Ecuador)	1680
+Unidentified Armed Group (Egypt)	1681
+Unidentified Armed Group (Ethiopia)	1682
+Unidentified Armed Group (France)	1683
+Unidentified Armed Group (Germany)	1684
+Unidentified Armed Group (Ghana)	1685
+Unidentified Armed Group (Greece)	1686
+Unidentified Armed Group (Guatemala)	1687
+Unidentified Armed Group (Guinea)	1688
+Unidentified Armed Group (Haiti)	1689
+Unidentified Armed Group (Honduras)	1690
+Unidentified Armed Group (India)	1691
+Unidentified Armed Group (Indonesia)	1692
+Unidentified Armed Group (International)	1693
+Unidentified Armed Group (Iran)	1694
+Unidentified Armed Group (Iraq)	1695
+Unidentified Armed Group (Israel)	1696
+Unidentified Armed Group (Italy)	1697
+Unidentified Armed Group (Jamaica)	1698
+Unidentified Armed Group (Jordan)	1699
+Unidentified Armed Group (Kenya)	1700
+Unidentified Armed Group (Kyrgyzstan)	1701
+Unidentified Armed Group (Lebanon)	1702
+Unidentified Armed Group (Liberia)	1703
+Unidentified Armed Group (Libya)	1704
+Unidentified Armed Group (Lithuania)	1705
+Unidentified Armed Group (Mali)	1706
+Unidentified Armed Group (Mauritania)	1707
+Unidentified Armed Group (Mexico)	1708
+Unidentified Armed Group (Mozambique)	1709
+Unidentified Armed Group (Myanmar)	1710
+Unidentified Armed Group (Nepal)	1711
+Unidentified Armed Group (Netherlands)	1712
+Unidentified Armed Group (Niger)	1713
+Unidentified Armed Group (Nigeria)	1714
+Unidentified Armed Group (Pakistan)	1715
+Unidentified Armed Group (Palestine)	1716
+Unidentified Armed Group (Panama)	1717
+Unidentified Armed Group (Peru)	1718
+Unidentified Armed Group (Philippines)	1719
+Unidentified Armed Group (Poland)	1720
+Unidentified Armed Group (Puerto Rico)	1721
+Unidentified Armed Group (Russia)	1722
+Unidentified Armed Group (Rwanda)	1723
+Unidentified Armed Group (Serbia)	1724
+Unidentified Armed Group (Somalia)	1725
+Unidentified Armed Group (South Africa)	1726
+Unidentified Armed Group (South Korea)	1727
+Unidentified Armed Group (South Sudan)	1728
+Unidentified Armed Group (Sri Lanka)	1729
+Unidentified Armed Group (Sudan)	1730
+Unidentified Armed Group (Sweden)	1731
+Unidentified Armed Group (Syria)	1732
+Unidentified Armed Group (Tanzania)	1733
+Unidentified Armed Group (Trinidad and Tobago)	1734
+Unidentified Armed Group (Turkey)	1735
+Unidentified Armed Group (Uganda)	1736
+Unidentified Armed Group (Ukraine)	1737
+Unidentified Armed Group (United Kingdom)	1738
+Unidentified Armed Group (United States)	1739
+Unidentified Armed Group (Uzbekistan)	1740
+Unidentified Armed Group (Venezuela)	1741
+Unidentified Armed Group (Yemen)	1742
+Unidentified Armed Group (Zimbabwe)	1743
+Unidentified Caste Militia (India)	1744
+Unidentified Clan Militia (Philippines)	1745
+Unidentified Clan Militia (Somalia)	1746
+Unidentified Clan Militia (South Sudan)	1747
+Unidentified Communal Militia (Brazil)	1748
+Unidentified Communal Militia (Chad)	1749
+Unidentified Communal Militia (Cyprus)	1750
+Unidentified Communal Militia (Ghana)	1751
+Unidentified Communal Militia (India)	1752
+Unidentified Communal Militia (Iraq)	1753
+Unidentified Communal Militia (Malawi)	1754
+Unidentified Communal Militia (Niger)	1755
+Unidentified Communal Militia (South Sudan)	1756
+Unidentified Communal Militia (Syria)	1757
+Unidentified Communal Militia (Trinidad and Tobago)	1758
+Unidentified Communal Militia (Yemen)	1759
+Unidentified Cult Militia (Nigeria)	1760
+Unidentified Ethnic Militia (Kenya)	1761
+Unidentified Gang (Brazil)	1762
+Unidentified Gang (Colombia)	1763
+Unidentified Gang (Ecuador)	1764
+Unidentified Gang (Guatemala)	1765
+Unidentified Gang (Haiti)	1766
+Unidentified Gang (Honduras)	1767
+Unidentified Gang (Jamaica)	1768
+Unidentified Gang (Mexico)	1769
+Unidentified Gang (Puerto Rico)	1770
+Unidentified Gang (Trinidad and Tobago)	1771
+Unidentified Gang (Venezuela)	1772
+Unidentified Gang and/or Colectivo	1773
+Unidentified Gang and/or Police Militia	1774
+Unidentified Military Forces	1775
+Unidentified Tribal Militia (Iraq)	1776
+Unidentified Tribal Militia (Yemen)	1777
+VDP: Volunteer for Defense of Homeland	1778
+VSN: Vigilante Society of Nigeria	1779
+Varao Police Militia	1780
+Viv Ansanm Gang	1781
+WAM: Weichan Auka Mapu	1782
+WTRF: Wundwin Township Revolution Force	1783
+Wagner Group	1784
+Weapons Latin Crazy Gang	1785
+West Coast Joint Forces	1786
+Wild Elephant Guerrilla Force	1787
+Wild Tiger Shwebo LPDF	1788
+Wings Of ShweBo - Drone Force	1789
+Wolf Guerrilla Local PDF Ye-U	1790
+Women Militias of Fire and Sun	1791
+Wun Pa Lway Pyauk Kyar Tatphwe - Myaing: Wolf Guerrilla Force - Myaing	1792
+YA: Yangon Army	1793
+YCWK: The Kurdistan Patriotic Youth Union	1794
+YFC: Ye-U Freedom Comrades	1795
+YOM: Youths Of Mandalay	1796
+YPG: Peoples Protection Units	1797
+YPPDF: Yephyu People's Defense Force	1798
+YPS: Civil Protection Units	1799
+YRA - Tilin: Yaw Revolution Army - Tilin	1800
+YRG: Yesagyo Revolution Group	1801
+YRK: Eastern Kurdistan Units	1802
+YSRCP: Yuvajana, Sramika, Rythu Congress Party	1803
+Yangon Victory Force	1804
+Ye Baw Nyi Naung PDF: Comrade Brothers PDF	1805
+Ye Bi Lu Aphwe: Ye Ogre Group	1806
+Yeiko Masacre Gang	1807
+Yekaterinburg Voluntary People's Militia	1808
+Yoma GBK PDF	1809
+Young Force-UG	1810
+Ywangan People's Defense Force	1811
+ZRA: Zomi Revolutionary Army	1812
+Zaghawa Ethnic Militia (Sudan)	1813
+Zainabiyoun Brigade	1814
+Zakiyeh Communal Militia (Syria)	1815
+Zamfara Communal Militia (Nigeria)	1816
+Zamfara State Community Protection Guards	1817
+Zarmani Guerrilla Force	1818
+Zawiya Communal Militia (Libya)	1819
+Zero Guerrilla Force - Myingyan	1820
+Zinho Police Militia	1821
+Zomi Federal Union/People's Defense Force - Zoland	1822

@@ -1,0 +1,1311 @@
+10 Downing Street	0
+Aam Aadmi Party	1
+Abdel Fattah Al-Sisi	2
+Abdelmadjid Tebboune	3
+Abdullah II of Jordan	4
+Abiy Ahmed	5
+Abkhazia	6
+Abul Kalam Abdul Momen	7
+Activist (India)	8
+Activist (Sudan)	9
+Adán Augusto López	10
+Afghanistan	11
+Africa	12
+African Union	13
+Agence France-Presse	14
+Akhilesh Yadav	15
+Al Jazeera	16
+Al Qaeda	17
+Al-Shabaab	18
+Alassane Ouattara	19
+Albania	20
+Alberto Fernández	21
+Albin Kurti	22
+Aleksandar Vučić	23
+Alexander Lukashenko	24
+Alexei Navalny	25
+Alexis Tsipras	26
+Algeria	27
+All Progressives Congress	28
+Amarinder Singh	29
+Amit Shah	30
+Amnesty International	31
+Amos Hochstein	32
+Andrzej Duda	33
+Andrés Manuel López Obrador	34
+Angela Merkel	35
+Angola	36
+Annastacia Palaszczuk	37
+António Manuel de Oliveira Guterres	38
+Arab League	39
+Ararat Mirzoyan	40
+Argentina	41
+Armed Band (Palestinian Territory, Occupied)	42
+Armed Forces of Ukraine	43
+Armed Forces of the Democratic Republic of Congo	44
+Armed Forces of the Republic of Armenia	45
+Armed Forces of the Republic of the Congo	46
+Armed Forces of the Russian Federation	47
+Armed Gang (Nigeria)	48
+Armed Gang (Pakistan)	49
+Armed Gang (Palestinian Territory, Occupied)	50
+Armed Gang (Turkey)	51
+Armed Rebel (Democratic Republic of Congo)	52
+Armed Rebel (Philippines)	53
+Armed Rebel (Yemen)	54
+Armed Separatist (Libération)	55
+Armed Separatist (Tigray-Tigrinya)	56
+Armenia	57
+Artis Pabriks	58
+Arvind Kejriwal	59
+Ashok Gehlot	60
+Asia-Pacific Economic Cooperation	61
+Associated Press	62
+Association of American Publishers	63
+Association of Southeast Asian Nations	64
+Atiku Abubakar	65
+Attacker (India)	66
+Attacker (Russia)	67
+Attorney General (Brazil)	68
+Aung San	69
+Australia	70
+Austria	71
+Ayman Safadi	72
+Azam Khan	73
+Azerbaijan	74
+Azzam al-Ahmad	75
+BBC	76
+Bahrain	77
+Bahujan Samaj Party	78
+Bangladesh	79
+Bangladesh Nationalist Party	80
+Bank (Russia)	81
+Bashar al-Assad	82
+Belarus	83
+Belgium	84
+Ben Wallace	85
+Benjamin Netanyahu	86
+Benny Gantz	87
+Berat Albayrak	88
+Bhagwant Mann	89
+Bharatiya Janata	90
+Bhupinder Singh Hooda	91
+Bilawal Bhutto Zardari	92
+Black Sea Fleet	93
+Bogdan Aurescu	94
+Bolivia	95
+Border Security Force	96
+Boris Johnson	97
+Bosnia and Herzegovina	98
+Brazil	99
+Bruno Rodríguez Parrilla	100
+Bui Thanh Son	101
+Bulgaria	102
+Burkina Faso	103
+Business (Australia)	104
+Business (Brazil)	105
+Business (Canada)	106
+Business (China)	107
+Business (Hong Kong)	108
+Business (India)	109
+Business (Russia)	110
+Business (Switzerland)	111
+Business (Ukraine)	112
+Businessperson (Brazil)	113
+Businessperson (India)	114
+Businessperson (Russia)	115
+Businessperson (Singapore)	116
+Cabinet / Council of Ministers / Advisors (India)	117
+Cabinet / Council of Ministers / Advisors (United Kingdom)	118
+Cabinet / Council of Ministers / Advisors (United States)	119
+Cambodia	120
+Cameroon	121
+Canada	122
+Caribbean	123
+Carrie Lam	124
+Central Bureau of Investigation	125
+Central Committee of the Communist Party of China	126
+Central Intelligence Agency	127
+Charles Michel	128
+Children (Australia)	129
+Children (India)	130
+Children (Nigeria)	131
+Children (Palestinian Territory, Occupied)	132
+Children (Russia)	133
+Children (Tanzania)	134
+Children (Ukraine)	135
+Chile	136
+China	137
+Chinese Communist Party	138
+Christian Lindner	139
+Ciro Ferreira Gomes	140
+Citizen (Afghanistan)	141
+Citizen (Algeria)	142
+Citizen (Angola)	143
+Citizen (Argentina)	144
+Citizen (Armenia)	145
+Citizen (Australia)	146
+Citizen (Azerbaijan)	147
+Citizen (Bangladesh)	148
+Citizen (Belarus)	149
+Citizen (Belgium)	150
+Citizen (Bolivia)	151
+Citizen (Brazil)	152
+Citizen (Bulgaria)	153
+Citizen (Burkina Faso)	154
+Citizen (Cameroon)	155
+Citizen (Canada)	156
+Citizen (Chile)	157
+Citizen (China)	158
+Citizen (Colombia)	159
+Citizen (Congo)	160
+Citizen (Costa Rica)	161
+Citizen (Cote d'Ivoire)	162
+Citizen (Croatia)	163
+Citizen (Cuba)	164
+Citizen (Czech Republic)	165
+Citizen (Democratic Republic of Congo)	166
+Citizen (Ecuador)	167
+Citizen (Egypt)	168
+Citizen (El Salvador)	169
+Citizen (Estonia)	170
+Citizen (Ethiopia)	171
+Citizen (France)	172
+Citizen (Georgia)	173
+Citizen (Germany)	174
+Citizen (Ghana)	175
+Citizen (Greece)	176
+Citizen (Guinea)	177
+Citizen (Guyana)	178
+Citizen (Haiti)	179
+Citizen (Hong Kong)	180
+Citizen (Hungary)	181
+Citizen (India)	182
+Citizen (Indonesia)	183
+Citizen (International)	184
+Citizen (Iran)	185
+Citizen (Iraq)	186
+Citizen (Israel)	187
+Citizen (Italy)	188
+Citizen (Japan)	189
+Citizen (Jordan)	190
+Citizen (Kazakhstan)	191
+Citizen (Kenya)	192
+Citizen (Kyrgyzstan)	193
+Citizen (Latvia)	194
+Citizen (Lebanon)	195
+Citizen (Liberia)	196
+Citizen (Libya)	197
+Citizen (Lithuania)	198
+Citizen (Malaysia)	199
+Citizen (Mali)	200
+Citizen (Mexico)	201
+Citizen (Morocco)	202
+Citizen (Myanmar)	203
+Citizen (Netherlands)	204
+Citizen (New Zealand)	205
+Citizen (Nicaragua)	206
+Citizen (Nigeria)	207
+Citizen (Pakistan)	208
+Citizen (Palestinian Territory, Occupied)	209
+Citizen (Peru)	210
+Citizen (Philippines)	211
+Citizen (Poland)	212
+Citizen (Portugal)	213
+Citizen (Romania)	214
+Citizen (Russia)	215
+Citizen (Saudi Arabia)	216
+Citizen (Senegal)	217
+Citizen (Serbia)	218
+Citizen (Singapore)	219
+Citizen (Slovakia)	220
+Citizen (Somalia)	221
+Citizen (South Africa)	222
+Citizen (South Korea)	223
+Citizen (Spain)	224
+Citizen (Sri Lanka)	225
+Citizen (Sudan)	226
+Citizen (Sweden)	227
+Citizen (Syria)	228
+Citizen (Taiwan)	229
+Citizen (Tanzania)	230
+Citizen (Thailand)	231
+Citizen (Tunisia)	232
+Citizen (Turkey)	233
+Citizen (Uganda)	234
+Citizen (Ukraine)	235
+Citizen (United Arab Emirates)	236
+Citizen (United Kingdom)	237
+Citizen (United States)	238
+Citizen (Uruguay)	239
+Citizen (Uzbekistan)	240
+Citizen (Venezuela)	241
+Citizen (Vietnam)	242
+Citizen (Yemen)	243
+Citizen (Zimbabwe)	244
+City Mayor (Brazil)	245
+City Mayor (Colombia)	246
+City Mayor (India)	247
+City Mayor (Netherlands)	248
+City Mayor (Philippines)	249
+City Mayor (Ukraine)	250
+Civic Democratic Party	251
+Civic Group (China)	252
+Civic Group (Taiwan)	253
+Coalition of Center Parties	254
+Coalition of the Radical Left	255
+Collective Security Treaty Organization	256
+Colombia	257
+Colombian National Army	258
+Combatant (Ukraine)	259
+Comelec	260
+Company - Owner or Operator (India)	261
+Company - Owner or Operator (Russia)	262
+Company - Owner or Operator (Ukraine)	263
+Congo	264
+Congress (Brazil)	265
+Congress (El Salvador)	266
+Congress (India)	267
+Congress (Peru)	268
+Congress (Ukraine)	269
+Congress (United States)	270
+Congress Party	271
+Conservative Party	272
+Conservative Party (United Kingdom)	273
+Costa Rica	274
+Cote d'Ivoire	275
+Council of Europe	276
+Court Judge (Argentina)	277
+Court Judge (Australia)	278
+Court Judge (Brazil)	279
+Court Judge (Canada)	280
+Court Judge (Hong Kong)	281
+Court Judge (India)	282
+Crimea	283
+Criminal (Argentina)	284
+Criminal (Australia)	285
+Criminal (Brazil)	286
+Criminal (Canada)	287
+Criminal (China)	288
+Criminal (El Salvador)	289
+Criminal (Haiti)	290
+Criminal (India)	291
+Criminal (Iran)	292
+Criminal (Italy)	293
+Criminal (Kazakhstan)	294
+Criminal (Nigeria)	295
+Criminal (Philippines)	296
+Criminal (Russia)	297
+Criminal (South Africa)	298
+Criminal (Turkey)	299
+Cristina Fernández de Kirchner	300
+Croatia	301
+Cuba	302
+Cyprus	303
+Cyril Ramaphosa	304
+Czech Republic	305
+Daniel Ortega	306
+David Zalkaliani	307
+Defense / Security Ministry (Armenia)	308
+Defense / Security Ministry (Australia)	309
+Defense / Security Ministry (Belarus)	310
+Defense / Security Ministry (China)	311
+Defense / Security Ministry (Germany)	312
+Defense / Security Ministry (Japan)	313
+Defense / Security Ministry (Portugal)	314
+Defense / Security Ministry (Russia)	315
+Defense / Security Ministry (South Korea)	316
+Defense / Security Ministry (Taiwan)	317
+Defense / Security Ministry (Ukraine)	318
+Defense / Security Ministry (United Kingdom)	319
+Defense / Security Ministry (United States)	320
+Democratic Party	321
+Democratic Progressive Party	322
+Democratic Republic of Congo	323
+Denmark	324
+Denny Tamaki	325
+Department of Defense	326
+Department of the Treasury	327
+Devendra Fadnavis	328
+Director General (India)	329
+Displaced Families (South Africa)	330
+Dissident (Movement for Socialism)	331
+District Commissioner (Tanzania)	332
+Dmitry Anatolyevich Medvedev	333
+Dmitry Peskov	334
+Domestic Affairs (France)	335
+Domestic Affairs (India)	336
+Domestic Affairs (Kazakhstan)	337
+Domestic Affairs (Mexico)	338
+Domestic Affairs (Ukraine)	339
+Donald Trump	340
+Ebrahim Raisi	341
+Economic Community of West African States	342
+Ecuador	343
+Edgars Rinkevics	344
+Edi Rama	345
+Eduardo da Costa Paes	346
+Education (Australia)	347
+Education (Hong Kong)	348
+Education (India)	349
+Education (Ukraine)	350
+Education Ministry (Hong Kong)	351
+Education Ministry (India)	352
+Edwin Clark	353
+Egypt	354
+Eknath Shinde	355
+El Salvador	356
+Election Commission (India)	357
+Elizabeth II	358
+Elon Musk	359
+Emmanuel Macron	360
+Emmerson Mnangagwa	361
+Emomalii Rahmon	362
+Employee (India)	363
+Employee (Russia)	364
+Employee (Ukraine)	365
+Energy Department/Ministry (Saudi Arabia)	366
+Envoy (China)	367
+Envoy (Russia)	368
+Envoy (United States)	369
+Eric Chu	370
+Eritrea	371
+Estonia	372
+Estonian Parliament	373
+Ethiopia	374
+European Bank for Reconstruction and Development	375
+European Commission	376
+European Parliament	377
+European Union	378
+Evo Morales	379
+Executive Office of the President	380
+Exiles (Nicaragua)	381
+Facebook	382
+Faisal Mekdad	383
+Farm Worker (India)	384
+Federal Bureau of Investigation	385
+Ferdinand Marcos, Jr.	386
+Fernando Haddad	387
+Fethullah Gulen	388
+Fiji	389
+Finance / Economy / Commerce / Trade Ministry (China)	390
+Finance / Economy / Commerce / Trade Ministry (India)	391
+Finland	392
+Foreign Affairs (Afghanistan)	393
+Foreign Affairs (Argentina)	394
+Foreign Affairs (Armenia)	395
+Foreign Affairs (Australia)	396
+Foreign Affairs (Azerbaijan)	397
+Foreign Affairs (Brazil)	398
+Foreign Affairs (Bulgaria)	399
+Foreign Affairs (Canada)	400
+Foreign Affairs (China)	401
+Foreign Affairs (Czech Republic)	402
+Foreign Affairs (Egypt)	403
+Foreign Affairs (Estonia)	404
+Foreign Affairs (France)	405
+Foreign Affairs (Georgia)	406
+Foreign Affairs (Germany)	407
+Foreign Affairs (Greece)	408
+Foreign Affairs (India)	409
+Foreign Affairs (Indonesia)	410
+Foreign Affairs (Iran)	411
+Foreign Affairs (Iraq)	412
+Foreign Affairs (Israel)	413
+Foreign Affairs (Italy)	414
+Foreign Affairs (Japan)	415
+Foreign Affairs (Kazakhstan)	416
+Foreign Affairs (Latvia)	417
+Foreign Affairs (Lithuania)	418
+Foreign Affairs (Mexico)	419
+Foreign Affairs (Nicaragua)	420
+Foreign Affairs (North Korea)	421
+Foreign Affairs (Norway)	422
+Foreign Affairs (Pakistan)	423
+Foreign Affairs (Palestinian Territory, Occupied)	424
+Foreign Affairs (Poland)	425
+Foreign Affairs (Qatar)	426
+Foreign Affairs (Russia)	427
+Foreign Affairs (Saudi Arabia)	428
+Foreign Affairs (South Korea)	429
+Foreign Affairs (Spain)	430
+Foreign Affairs (Sweden)	431
+Foreign Affairs (Syria)	432
+Foreign Affairs (Taiwan)	433
+Foreign Affairs (Turkey)	434
+Foreign Affairs (Ukraine)	435
+Foreign Affairs (United Arab Emirates)	436
+Foreign Affairs (United Kingdom)	437
+Foreign Affairs (United States)	438
+Foreign Affairs (Venezuela)	439
+Foreign Affairs (Vietnam)	440
+France	441
+Frank-Walter Steinmeier	442
+Fumio Kishida	443
+Félix Tshisekedi	444
+G7	445
+Gabon	446
+Gazprom	447
+Georgia	448
+Georgian Dream	449
+Geraldo Alckmin	450
+Germany	451
+Ghana	452
+Ghulam Nabi Azad	453
+Gitanas Nauseda	454
+Gotabaya Rajapaksa	455
+Government (Afghanistan)	456
+Government (Argentina)	457
+Government (Armenia)	458
+Government (Australia)	459
+Government (Bangladesh)	460
+Government (Bolivia)	461
+Government (Brazil)	462
+Government (Cambodia)	463
+Government (Canada)	464
+Government (Chile)	465
+Government (China)	466
+Government (Colombia)	467
+Government (Croatia)	468
+Government (Czech Republic)	469
+Government (Ethiopia)	470
+Government (France)	471
+Government (Georgia)	472
+Government (Germany)	473
+Government (Ghana)	474
+Government (Guinea)	475
+Government (Guyana)	476
+Government (Hong Kong)	477
+Government (India)	478
+Government (Iran)	479
+Government (Iraq)	480
+Government (Israel)	481
+Government (Italy)	482
+Government (Japan)	483
+Government (Jordan)	484
+Government (Kenya)	485
+Government (Liberia)	486
+Government (Libya)	487
+Government (Malaysia)	488
+Government (Mali)	489
+Government (Mauritius)	490
+Government (Myanmar)	491
+Government (Nicaragua)	492
+Government (Nigeria)	493
+Government (Pakistan)	494
+Government (Peru)	495
+Government (Philippines)	496
+Government (Russia)	497
+Government (Saudi Arabia)	498
+Government (Slovakia)	499
+Government (Somalia)	500
+Government (South Africa)	501
+Government (South Korea)	502
+Government (Sri Lanka)	503
+Government (Sudan)	504
+Government (Syria)	505
+Government (Taiwan)	506
+Government (Tanzania)	507
+Government (Thailand)	508
+Government (Ukraine)	509
+Government (United Kingdom)	510
+Government (United States)	511
+Government (Venezuela)	512
+Government (Yemen)	513
+Government Official (United States)	514
+Governor (Argentina)	515
+Governor (Brazil)	516
+Governor (India)	517
+Governor (Nigeria)	518
+Governor (Philippines)	519
+Governor (Russia)	520
+Governor (Ukraine)	521
+Governor (United States)	522
+Greece	523
+Guatemala	524
+Guillermo Lasso	525
+Guinea	526
+Gulf Cooperation Council	527
+Gustavo Petro	528
+Guyana	529
+Haiti	530
+Halimah Yacob	531
+Hamas	532
+Hamilton Mourão	533
+Han Ducksoo	534
+Hassan Sheikh Mohamud	535
+Head of Government (Algeria)	536
+Head of Government (Argentina)	537
+Head of Government (Armenia)	538
+Head of Government (Australia)	539
+Head of Government (Azerbaijan)	540
+Head of Government (Brazil)	541
+Head of Government (Bulgaria)	542
+Head of Government (Cambodia)	543
+Head of Government (Canada)	544
+Head of Government (Chile)	545
+Head of Government (China)	546
+Head of Government (Colombia)	547
+Head of Government (Cote d'Ivoire)	548
+Head of Government (Croatia)	549
+Head of Government (Czech Republic)	550
+Head of Government (Egypt)	551
+Head of Government (Estonia)	552
+Head of Government (Finland)	553
+Head of Government (France)	554
+Head of Government (Georgia)	555
+Head of Government (Germany)	556
+Head of Government (Greece)	557
+Head of Government (Guyana)	558
+Head of Government (Honduras)	559
+Head of Government (Hungary)	560
+Head of Government (India)	561
+Head of Government (Indonesia)	562
+Head of Government (Iran)	563
+Head of Government (Iraq)	564
+Head of Government (Israel)	565
+Head of Government (Italy)	566
+Head of Government (Japan)	567
+Head of Government (Jordan)	568
+Head of Government (Kazakhstan)	569
+Head of Government (Kyrgyzstan)	570
+Head of Government (Latvia)	571
+Head of Government (Lebanon)	572
+Head of Government (Liberia)	573
+Head of Government (Lithuania)	574
+Head of Government (Malaysia)	575
+Head of Government (Mexico)	576
+Head of Government (Nigeria)	577
+Head of Government (Pakistan)	578
+Head of Government (Peru)	579
+Head of Government (Philippines)	580
+Head of Government (Poland)	581
+Head of Government (Qatar)	582
+Head of Government (Romania)	583
+Head of Government (Russia)	584
+Head of Government (Senegal)	585
+Head of Government (Serbia)	586
+Head of Government (Slovakia)	587
+Head of Government (Somalia)	588
+Head of Government (South Africa)	589
+Head of Government (South Korea)	590
+Head of Government (Spain)	591
+Head of Government (Sri Lanka)	592
+Head of Government (Sweden)	593
+Head of Government (Taiwan)	594
+Head of Government (Tunisia)	595
+Head of Government (Turkey)	596
+Head of Government (Ukraine)	597
+Head of Government (United Kingdom)	598
+Head of Government (United States)	599
+Head of Government (Vietnam)	600
+Health Ministry (India)	601
+Healthcare Facility (India)	602
+Healthcare Facility (Ukraine)	603
+Hemant Soren	604
+Hezbollah	605
+High Commission for Refugees	606
+High Ranking Military Personnel (Philippines)	607
+Himanta Biswa Sarma	608
+Hindu (India)	609
+Holy See (Vatican City State)	610
+Honduras	611
+Hong Kong	612
+Horacio Rodriguez Larreta	613
+Hossein Amir-Abdollahian	614
+House of Representatives (United States)	615
+Houthis	616
+Hua Chunying	617
+Human Rights Watch	618
+Hun Sen	619
+Hungary	620
+Igor Konashenkov	621
+Ilham Aliyev	622
+Immigrants (Venezuela)	623
+Imran Khan	624
+India	625
+Indian Administered Kashmir	626
+Indigenous People (Canada)	627
+Indigenous People (Colombia)	628
+Indigenous People (India)	629
+Indigenous People (Myanmar)	630
+Indigenous People (Russia)	631
+Indigenous People (Ukraine)	632
+Indonesia	633
+Industrial / Textiles / Mining Ministry (South Korea)	634
+Ingrida Šimonytė	635
+Inspector General (India)	636
+International	637
+International Atomic Energy Agency	638
+International Committee of the Red Cross	639
+International Criminal Court	640
+International Government Organizations	641
+International Monetary Fund	642
+Irakli Garibashvili	643
+Iran	644
+Iranian Kurds	645
+Iraq	646
+Iraqi Kurdistan	647
+Ireland	648
+Isaac Herzog	649
+Islamic Jihad	650
+Islamic State of Iraq and the Levant	651
+Israel	652
+Israeli Defense Forces	653
+Italy	654
+Iván Duque Márquez	655
+Jacinda Ardern	656
+Jair Bolsonaro	657
+Janet Louise Yellen	658
+Japan	659
+Jason Kenney	660
+Jayant Patel	661
+Jean-Yves Le Drian	662
+Jeanine Áñez Chávez	663
+Jen Psaki	664
+Jens Stoltenberg	665
+Jiang Zemin	666
+Joao Lourenco	667
+John Kerry	668
+Joint Chiefs of Staff (South Korea)	669
+Joko Widodo	670
+Jordan	671
+Josep Borrell	672
+Joseph Robinette Biden	673
+Joseph Wu	674
+Juan Guaidó	675
+Juan Orlando Hernández	676
+Julian Paul Assange	677
+Justin Trudeau	678
+Kamala Harris	679
+Kapil Sibal	680
+Karl Nehammer	681
+Kasymzhomart Tokayev	682
+Kazakhstan	683
+Kaïs Saïed	684
+Kenya	685
+Kim Jong-Un	686
+Klaus Johannis	687
+Korean Central News Agency	688
+Kosovo	689
+Krisjanis Karins	690
+Kristalina Georgieva	691
+Kurdistan Workers' Party	692
+Kuwait	693
+Kyrgyzstan	694
+Kyriakos Mitsotakis	695
+Labor Union (Georgia)	696
+Labor Union (India)	697
+Laos	698
+Latin America	699
+Latvia	700
+Lawmaker (China)	701
+Lawmaker (India)	702
+Lawmaker (Italy)	703
+Lawmaker (United Kingdom)	704
+Lawmaker (United States)	705
+Lawyer/Attorney (Argentina)	706
+Lawyer/Attorney (Australia)	707
+Lawyer/Attorney (Brazil)	708
+Lawyer/Attorney (France)	709
+Lawyer/Attorney (Germany)	710
+Lawyer/Attorney (Hong Kong)	711
+Lawyer/Attorney (India)	712
+Lawyer/Attorney (Iran)	713
+Lawyer/Attorney (Peru)	714
+Lawyer/Attorney (Philippines)	715
+Lawyer/Attorney (Romania)	716
+Lawyer/Attorney (Russia)	717
+Lawyer/Attorney (South Korea)	718
+Lawyer/Attorney (Syria)	719
+Lawyer/Attorney (Turkey)	720
+Lawyer/Attorney (United Kingdom)	721
+Lawyer/Attorney (United States)	722
+Lebanon	723
+Lee Hsien Loong	724
+Legislature (Hong Kong)	725
+Legislature (India)	726
+Legislature (Malaysia)	727
+Legislature (Peru)	728
+Legislature (United Kingdom)	729
+Li Keqiang	730
+Liberia	731
+Libya	732
+Linda Thomas-Greenfield	733
+Lithuania	734
+Lloyd Austin	735
+Lok Sabha	736
+Luigi Di Maio	737
+Luis Alberto Lacalle	738
+Luis Arce	739
+Luiz Inacio Lula Da Silva	740
+Luxembourg	741
+M.K. Stalin	742
+Macedonia	743
+Macky Sall	744
+Madagascar	745
+Magdalena Andersson	746
+Mahinda Rajapaksa	747
+Mahmoud Abbas	748
+Maia Sandu	749
+Main Opposition (India)	750
+Malaysia	751
+Malaysian People's Party	752
+Maldives	753
+Mali	754
+Mamata Banerjee	755
+Manasseh Sogavare	756
+Manish Sisodia	757
+Manohar Lal Khattar	758
+Marcelo Ebrard	759
+Maria Zakharova	760
+Marine Le Pen	761
+Mario Abdo Benítez	762
+Mario Draghi	763
+Marise Payne	764
+Mark Milley	765
+Mark Rutte	766
+Martín Guzmán	767
+Mateusz Morawiecki	768
+Mauricio Macri	769
+Media (Australia)	770
+Media (Haiti)	771
+Media (India)	772
+Media (Russia)	773
+Media (United Kingdom)	774
+Media Personnel (Afghanistan)	775
+Media Personnel (Australia)	776
+Media Personnel (China)	777
+Media Personnel (Hong Kong)	778
+Media Personnel (India)	779
+Media Personnel (Iran)	780
+Media Personnel (Jordan)	781
+Media Personnel (Nigeria)	782
+Media Personnel (Pakistan)	783
+Media Personnel (Philippines)	784
+Media Personnel (Russia)	785
+Media Personnel (South Africa)	786
+Media Personnel (Ukraine)	787
+Media Personnel (United Kingdom)	788
+Medical Personnel (India)	789
+Medical Personnel (Spain)	790
+Mehbooba Mufti	791
+Member of Parliament (Australia)	792
+Member of Parliament (India)	793
+Member of Parliament (Malaysia)	794
+Member of Parliament (United Kingdom)	795
+Member of the Judiciary (Australia)	796
+Member of the Judiciary (Brazil)	797
+Member of the Judiciary (India)	798
+Member of the Judiciary (United Kingdom)	799
+Men (Argentina)	800
+Men (Australia)	801
+Men (Brazil)	802
+Men (Canada)	803
+Men (China)	804
+Men (Colombia)	805
+Men (France)	806
+Men (Germany)	807
+Men (Hong Kong)	808
+Men (India)	809
+Men (Japan)	810
+Men (Nicaragua)	811
+Men (Palestinian Territory, Occupied)	812
+Men (Russia)	813
+Men (Singapore)	814
+Men (South Africa)	815
+Men (Ukraine)	816
+Men (United Kingdom)	817
+Mette Frederiksen	818
+Mevlut Cavusoglu	819
+Mexico	820
+Michel Aoun	821
+Michelle Bachelet	822
+Micheál Martin	823
+Middle East	824
+Miguel Díaz-Canel	825
+Mike Pompeo	826
+Mikhail Mishustin	827
+Mikhail Saakashvili	828
+Mikhail Sergeyevich Gorbachev	829
+Militant (Al-Shabaab)	830
+Militant (India)	831
+Militant (Nigeria)	832
+Militant (Russia)	833
+Militant (Ukraine)	834
+Military (Afghanistan)	835
+Military (Australia)	836
+Military (Azerbaijan)	837
+Military (Belarus)	838
+Military (Brazil)	839
+Military (Burkina Faso)	840
+Military (China)	841
+Military (Colombia)	842
+Military (Cote d'Ivoire)	843
+Military (Ethiopia)	844
+Military (France)	845
+Military (India)	846
+Military (International)	847
+Military (Iran)	848
+Military (Iraq)	849
+Military (Mali)	850
+Military (Myanmar)	851
+Military (Nigeria)	852
+Military (Pakistan)	853
+Military (Palestinian Territory, Occupied)	854
+Military (Philippines)	855
+Military (Russia)	856
+Military (Somalia)	857
+Military (South Korea)	858
+Military (Syria)	859
+Military (Turkey)	860
+Military (Ukraine)	861
+Military (United Kingdom)	862
+Military (United States)	863
+Military (Venezuela)	864
+Military Personnel (Colombia)	865
+Military Personnel (Philippines)	866
+Military Personnel (Russia)	867
+Military Personnel (Ukraine)	868
+Military Personnel - Special (Afghanistan)	869
+Military Personnel - Special (India)	870
+Military Personnel - Special (Iran)	871
+Military Personnel - Special (Iraq)	872
+Military Personnel - Special (Israel)	873
+Military Personnel - Special (Morocco)	874
+Military Personnel - Special (Somalia)	875
+Military Personnel - Special (Sudan)	876
+Military Personnel - Special (Ukraine)	877
+Military Police (Brazil)	878
+Militia (Democratic Republic of Congo)	879
+Milorad Dodik	880
+Milos Zeman	881
+Min Aung Hlaing	882
+Ministry (Algeria)	883
+Ministry (Argentina)	884
+Ministry (Australia)	885
+Ministry (Brazil)	886
+Ministry (Cameroon)	887
+Ministry (Canada)	888
+Ministry (China)	889
+Ministry (Cote d'Ivoire)	890
+Ministry (Egypt)	891
+Ministry (France)	892
+Ministry (Germany)	893
+Ministry (Ghana)	894
+Ministry (India)	895
+Ministry (Indonesia)	896
+Ministry (Iran)	897
+Ministry (Japan)	898
+Ministry (Jordan)	899
+Ministry (Latvia)	900
+Ministry (Libya)	901
+Ministry (Nigeria)	902
+Ministry (Peru)	903
+Ministry (Russia)	904
+Ministry (Singapore)	905
+Ministry (South Africa)	906
+Ministry (South Korea)	907
+Ministry (Ukraine)	908
+Ministry (United Kingdom)	909
+Mirza Fakhrul Islam Alamgir	910
+Mob (India)	911
+Mohammad Najib Abdul Razak	912
+Mohammed bin Salman	913
+Moldova	914
+Mongolia	915
+Montenegro	916
+Moon Jae-in	917
+Morocco	918
+Mostafa Madbouly	919
+Moussa Faki Mahamat	920
+Mozambique	921
+Muhammad Ishtayyah	922
+Muhammad VI	923
+Muhammadu Buhari	924
+Muqtada Al-Sadr	925
+Murderer (Hong Kong)	926
+Muslim (India)	927
+Myanmar	928
+Naftali Bennett	929
+Najib Mikati	930
+Nancy Pelosi	931
+Narendra Modi	932
+Nasser Bourita	933
+National Development and Reform Commission	934
+National Front Malaysia	935
+National Liberation Army	936
+National Security Advisor (Italy)	937
+National Security Advisor (United States)	938
+National Security and Defense Council	939
+Navjot Singh Sidhu	940
+Nayib Bukele	941
+Nepal	942
+Netherlands	943
+New Zealand	944
+Nguyen Phu Trong	945
+Nguyen Xuan Phuc	946
+Nicaragua	947
+Nicola Sturgeon	948
+Nicolae Ciuca	949
+Nicolás Maduro	950
+Niger	951
+Nigeria	952
+Nikol Pashinyan	953
+Nikolai Platonovich Patrushev	954
+Nikos Dendias	955
+Nirmala Sitharaman	956
+Nitish Kumar	957
+Nobuo Kishi	958
+Non-Governmental Organizations	959
+North Atlantic Treaty Organization	960
+North Korea	961
+Norway	962
+Office of the United Nations High Commissioner for Human Rights	963
+Olaf Scholz	964
+Oman	965
+Opposition Supporter (Belarus)	966
+Organisation of Islamic Cooperation	967
+Organization for Security and Cooperation in Europe	968
+Organization of American States	969
+Other Authorities / Officials (Australia)	970
+Other Authorities / Officials (China)	971
+Other Authorities / Officials (Colombia)	972
+Other Authorities / Officials (India)	973
+Other Authorities / Officials (Iran)	974
+Other Authorities / Officials (Kazakhstan)	975
+Other Authorities / Officials (Netherlands)	976
+Other Authorities / Officials (Philippines)	977
+Other Authorities / Officials (Romania)	978
+Other Authorities / Officials (Russia)	979
+Other Authorities / Officials (Serbia)	980
+Other Authorities / Officials (Tunisia)	981
+Other Authorities / Officials (Turkey)	982
+Other Authorities / Officials (Ukraine)	983
+Other Authorities / Officials (United States)	984
+Other Authorities / Officials (Venezuela)	985
+Otunba Gbenga Daniel	986
+Oversight Court (Australia)	987
+Oversight Court (Russia)	988
+Pakistan	989
+Pakistan Tehreek-e-Insaf	990
+Palestinian Territory, Occupied	991
+Panama	992
+Papua New Guinea	993
+Paraguay	994
+Party Member (Australia)	995
+Party Member (Brazil)	996
+Party Member (India)	997
+Party Member (Nigeria)	998
+Party Member (Philippines)	999
+Party Member (South Korea)	1000
+Party Member (Sudan)	1001
+Party Member (Taiwan)	1002
+Party Member (United Kingdom)	1003
+Party President (India)	1004
+Paul Biya	1005
+Paul Kagame	1006
+Paulo Guedes	1007
+Pedro Sanchez	1008
+Penny Wong	1009
+People Associated with the Opposition (India)	1010
+People's Democratic Party (Nigeria)	1011
+Peru	1012
+Peter Dutton	1013
+Peter Szijjarto	1014
+Petro Poroshenko	1015
+Philipp Rösler	1016
+Philippine National Police	1017
+Philippines	1018
+Pinarayi Vijayan	1019
+Poland	1020
+Police (Afghanistan)	1021
+Police (Argentina)	1022
+Police (Armenia)	1023
+Police (Australia)	1024
+Police (Bangladesh)	1025
+Police (Belarus)	1026
+Police (Belgium)	1027
+Police (Brazil)	1028
+Police (Cameroon)	1029
+Police (Canada)	1030
+Police (Chile)	1031
+Police (China)	1032
+Police (Colombia)	1033
+Police (Costa Rica)	1034
+Police (Czech Republic)	1035
+Police (Ecuador)	1036
+Police (France)	1037
+Police (Georgia)	1038
+Police (Germany)	1039
+Police (Hong Kong)	1040
+Police (India)	1041
+Police (Indonesia)	1042
+Police (Iran)	1043
+Police (Israel)	1044
+Police (Japan)	1045
+Police (Jordan)	1046
+Police (Kazakhstan)	1047
+Police (Kenya)	1048
+Police (Latvia)	1049
+Police (Malaysia)	1050
+Police (New Zealand)	1051
+Police (Nicaragua)	1052
+Police (Nigeria)	1053
+Police (Pakistan)	1054
+Police (Peru)	1055
+Police (Philippines)	1056
+Police (Russia)	1057
+Police (Singapore)	1058
+Police (Slovakia)	1059
+Police (South Africa)	1060
+Police (South Korea)	1061
+Police (Spain)	1062
+Police (Sri Lanka)	1063
+Police (Taiwan)	1064
+Police (Thailand)	1065
+Police (Turkey)	1066
+Police (Ukraine)	1067
+Police (United Kingdom)	1068
+Police (Uruguay)	1069
+Police (Venezuela)	1070
+Political Parties (China)	1071
+Political Parties (India)	1072
+Pope Francis	1073
+Population (Congo)	1074
+Population (El Salvador)	1075
+Population (Ukraine)	1076
+Portugal	1077
+Prayuth Chan-ocha	1078
+Presidential Candidate (South Korea)	1079
+Prime Minister bin Ibrahim	1080
+Priti Patel	1081
+Priyanka Gandhi	1082
+Professor (Nicaragua)	1083
+Protester (Argentina)	1084
+Protester (Armenia)	1085
+Protester (Australia)	1086
+Protester (Brazil)	1087
+Protester (Canada)	1088
+Protester (Chad)	1089
+Protester (China)	1090
+Protester (Ecuador)	1091
+Protester (France)	1092
+Protester (India)	1093
+Protester (Iran)	1094
+Protester (Iraq)	1095
+Protester (Kazakhstan)	1096
+Protester (Netherlands)	1097
+Protester (Peru)	1098
+Protester (Sri Lanka)	1099
+Protester (Sudan)	1100
+Protester (Tunisia)	1101
+Protester (United Kingdom)	1102
+Qamar Javed Bajwa	1103
+Qatar	1104
+Qin Gang	1105
+Rafael Grossi	1106
+Rahul Gandhi	1107
+Raila Odinga	1108
+Raj Thackeray	1109
+Rajnath Singh	1110
+Rajya Sabha	1111
+Ram Nath Kovind	1112
+Ramtane Lamamra	1113
+Ramzan Akhmadovich Kadyrov	1114
+Ranil Wickremasinghe	1115
+Recep Tayyip Erdoğan	1116
+Refugee (Afghanistan)	1117
+Refugee (Ukraine)	1118
+Regnum	1119
+Regulator (France)	1120
+Religion (Brazil)	1121
+Representatives (India)	1122
+Representatives (Russia)	1123
+Representatives (Ukraine)	1124
+Republic of Artsakh	1125
+Reserve Personnel (Ukraine)	1126
+Retno Marsudi	1127
+Reuters	1128
+Revolutionary Guards	1129
+Rishi Sunak	1130
+Roch Marc Christian Kaboré	1131
+Rodrigo Chaves	1132
+Rodrigo Duterte	1133
+Romania	1134
+Royal Administration (Bahrain)	1135
+Royal Administration (Belgium)	1136
+Royal Administration (Nigeria)	1137
+Royal Administration (Saudi Arabia)	1138
+Royal Administration (United Kingdom)	1139
+Royal Canadian Mounted Police	1140
+Rumen Radev	1141
+Russia	1142
+Russian Ground Forces	1143
+Rwanda	1144
+Saeima	1145
+Salman bin Abdulaziz al-Saud	1146
+Salome Zourabichvili	1147
+Samajwadi Janata Party	1148
+Samantha Power	1149
+Sameh Shoukry	1150
+Samia Suluhu Hassan	1151
+Sanjay Raut	1152
+Sanna Marin	1153
+Santiago Cafiero	1154
+Saudi Arabia	1155
+Sauli Niinistö	1156
+Sayyed Ali Khamenei	1157
+Scientist (Iran)	1158
+Scotland	1159
+Scott Morrison	1160
+Scottish Government	1161
+Security Council (Russia)	1162
+Security Service of Ukraine	1163
+Seimas of the Lithuanian Republic	1164
+Senate (Australia)	1165
+Senate (Brazil)	1166
+Senate (Nigeria)	1167
+Senate (Philippines)	1168
+Senate (Russia)	1169
+Senate (United States)	1170
+Senegal	1171
+Serbia	1172
+Sergei Ryabkov	1173
+Sergey Kuzhugetovich Shoygu	1174
+Sergey Viktorovich Lavrov	1175
+Sergio Massa	1176
+Sergio Mattarella	1177
+Shahbaz Sharif	1178
+Shanghai Cooperation Organization	1179
+Sharad Pawar	1180
+Sharm el-Sheikh	1181
+Shavkat Mirziyayev	1182
+Sheikh Hamad bin Isa al Khalifah	1183
+Sheikh Hasina Wajed	1184
+Sheikh Mohammed bin Zayed Al Nahyan	1185
+Sher Bahadur Deuba	1186
+Shin Bet	1187
+Shinzo Abe	1188
+Shiv Sena	1189
+Shivraj Singh Chouhan	1190
+Shun'ichi Suzuki	1191
+Simon Coveney	1192
+Singapore	1193
+Slovakia	1194
+Slovenia	1195
+Social Democratic Party (Sweden)	1196
+Solidaridad	1197
+Solomon Islands	1198
+Somali National Army	1199
+Somalia	1200
+Sonia Ghandi	1201
+South Africa	1202
+South Korea	1203
+South Sudan	1204
+Southeast Asia	1205
+Spain	1206
+Special Court (India)	1207
+Special Rapporteurs of the United Nations	1208
+Spy Plane (Yemen)	1209
+Sri Lanka	1210
+State Duma (Russia)	1211
+Student (India)	1212
+Student (Iran)	1213
+Student (Nigeria)	1214
+Stéphane Dujarric	1215
+Subrahmanyam Jaishankar	1216
+Sudan	1217
+Sudanese Armed Forces	1218
+Sukhbir Singh Badal	1219
+Sweden	1220
+Switzerland	1221
+Syria	1222
+Taiwan	1223
+Tajikistan	1224
+Taliban	1225
+Tamim bin Hamad Al Thani	1226
+Tanzania	1227
+Tejashwi Prasad Yadav	1228
+Thailand	1229
+Thief (Argentina)	1230
+Thief (India)	1231
+Tigray-Tigrinya	1232
+Togo	1233
+Tonga	1234
+Tony Blinken	1235
+Toronto Police Service	1236
+Transparency International	1237
+Treasury/Finance Ministry (Hong Kong)	1238
+Treasury/Finance Ministry (India)	1239
+Tsai Ing-wen	1240
+Tunisia	1241
+Turkey	1242
+Turkish Armed Forces	1243
+Turkmenistan	1244
+UN General Assembly	1245
+UN Security Council	1246
+USAID	1247
+Uddhav Thackeray	1248
+Uganda	1249
+Uhuru Muigai Kenyatta	1250
+Ukraine	1251
+Ukrinform	1252
+Unidentified State Actor	1253
+United Arab Emirates	1254
+United Kingdom	1255
+United Nations	1256
+United Nations Human Rights Council	1257
+United States	1258
+United States House of Representatives	1259
+Unspecified Actor	1260
+Urmas Reinsalu	1261
+Ursula von der Leyen	1262
+Uruguay	1263
+Uzbekistan	1264
+Venezuela	1265
+Verkhovna Rada	1266
+Vietnam	1267
+Viktor Orban	1268
+Villager (India)	1269
+Vitali Klitschko	1270
+Vivian Balakrishnan	1271
+Vladimir Makei	1272
+Vladimir Putin	1273
+Volodymyr Zelensky	1274
+Vuong Dinh Hue	1275
+Vyacheslav Victorovich Volodin	1276
+Wang Qishan	1277
+Wang Yang	1278
+Wang Yi	1279
+Wei Fenghe	1280
+Wendy Sherman	1281
+William Ruto	1282
+Women (Afghanistan)	1283
+Women (Australia)	1284
+Women (Holy See (Vatican City State))	1285
+Women (Hong Kong)	1286
+Women (India)	1287
+Women (Iran)	1288
+Women (Nigeria)	1289
+Women (Russia)	1290
+Worker's Party	1291
+Workers' Party (North Korea)	1292
+World Bank	1293
+World Food Program	1294
+World Health Organization	1295
+Xi Jinping	1296
+Xiaomi	1297
+Xinhua	1298
+Xinjiang Uyghur	1299
+Xiomara Castro	1300
+Yair Lapid	1301
+Yang Jiechi	1302
+Yemen	1303
+Yemeni Armed Forces	1304
+Yogi Adityanath	1305
+Yonhap News Agency	1306
+Yoshimasa Hayashi	1307
+Yoweri Museveni	1308
+Zimbabwe	1309
+Zuzana Čaputová	1310

@@ -1,0 +1,24 @@
+Abduction/forced disappearance	0
+Agreement	1
+Air/drone strike	2
+Armed clash	3
+Arrests	4
+Attack	5
+Change to group/activity	6
+Chemical weapon	7
+Disrupted weapons use	8
+Excessive force against protesters	9
+Government regains territory	10
+Grenade	11
+Headquarters or base established	12
+Looting/property destruction	13
+Mob violence	14
+Non-state actor overtakes territory	15
+Non-violent transfer of territory	16
+Peaceful protest	17
+Protest with intervention	18
+Remote explosive/landmine/IED	19
+Sexual violence	20
+Shelling/artillery/missile attack	21
+Suicide bomb	22
+Violent demonstration	23

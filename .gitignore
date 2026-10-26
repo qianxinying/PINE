@@ -1,0 +1,14 @@
+.DS_Store
+__pycache__/
+*.py[cod]
+.pytest_cache/
+.venv/
+venv/
+pine_data/
+pine_runs/
+*.pt
+*.pth
+*.log
+working_dir.tmp
+.env
+.env.*
